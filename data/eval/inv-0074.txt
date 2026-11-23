@@ -1,0 +1,19 @@
+# Tax Invoice
+
+Inv # 7074/B
+Issue date: 2026-09-02
+Supplier: Copperfield Logistics Ltd
+Tax ID: GB119932667
+Customer: Harbour Catering Limited
+
+| Item | Qty | Unit | Line total |
+|---|---|---|---|
+| Software licence (annual) | 3 | GBP 221.50 | GBP 664.50 |
+| On-site support hours | 20 | GBP 74.61 | GBP 1,492.20 |
+| Courier delivery | 17 | GBP 39.56 | GBP 672.52 |
+| On-site support hours | 20 | GBP 815.93 | GBP 16,318.60 |
+| Software licence (annual) | 12 | GBP 412.62 | GBP 4,951.44 |
+
+Net total: GBP 24,099.26
+Tax @ 20%: GBP 4,819.85
+Amount due: GBP 28,919.11

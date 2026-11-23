@@ -1,0 +1,24 @@
+Bluebell Catering Limited
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+
+INVOICE
+
+Invoice No: 7005/B
+Invoice Date: 31/03/2026
+Due Date: 30/04/2026
+
+Bill To:
+Silverline Print Works Ltd
+1 King Street, Manchester M2 6AZ
+
+Description                            Qty    Unit Price        Amount
+------------------------------------------------------------------------
+Office cleaning - monthly               13       $188.08     $2,445.04
+Equipment hire                           1       $222.76       $222.76
+Temporary staff hours                   16       $136.70     $2,187.20
+------------------------------------------------------------------------
+Subtotal: $4,855.00
+VAT (20%): $971.00
+Total Due: $5,826.00
+
+Payment by BACS within terms. Thank you for your business.

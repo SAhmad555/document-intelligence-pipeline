@@ -1,0 +1,36 @@
+{
+  "template": "modern",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "SI000038",
+    "invoiceDate": "2026-02-24",
+    "dueDate": null,
+    "supplierName": "Pennine Print Works Ltd",
+    "supplierVatNumber": "GB814997227",
+    "customerName": "Granite Consulting Ltd",
+    "currency": "GBP",
+    "subtotal": 17546.21,
+    "taxAmount": 3509.24,
+    "total": 21055.45,
+    "lineItems": [
+      {
+        "description": "Pallet storage (per week)",
+        "quantity": 7.5,
+        "unitPrice": 886.42,
+        "amount": 6648.15
+      },
+      {
+        "description": "Courier delivery",
+        "quantity": 20,
+        "unitPrice": 482.33,
+        "amount": 9646.60
+      },
+      {
+        "description": "Software licence (annual)",
+        "quantity": 2,
+        "unitPrice": 625.73,
+        "amount": 1251.46
+      }
+    ]
+  }
+}

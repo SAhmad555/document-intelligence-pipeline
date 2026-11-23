@@ -1,0 +1,16 @@
+# Tax Invoice
+
+Inv # A-10238
+Issue date: 2026-08-14
+Payment due: 2026-09-13
+Supplier: Silverline Engineering Ltd
+Customer: Granite Cleaning Services Ltd
+
+| Item | Qty | Unit | Line total |
+|---|---|---|---|
+| Printed brochures (A4, 500) | 11 | GBP 343.03 | GBP 3,773.33 |
+| Equipment hire | 14 | GBP 773.74 | GBP 10,832.36 |
+
+Net total: GBP 14,605.69
+Tax @ 20%: GBP 2,921.14
+Amount due: GBP 17,526.83

@@ -1,0 +1,21 @@
+Northwind Print Works LLP
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+VAT Reg No: GB 508 4669 29
+
+INVOICE
+
+Invoice No: 7008/B
+Invo ice Date : 20/09/2026
+
+Description                            Qty    Unit Price        Amount
+------------------------------------------------------------------------
+Temporary staff hours                   20       £335.15     £6,703.00
+Catering - staff lunch                   4       £859.26     £3,437.04
+Consultancy day rate                     8       £875.51     £7,004.08
+Equipment hire                          18       £296.16     £5,330.88
+------------------------------------------------------------------------
+Sub tota1: £22,475.00
+VAT (20%): £4,495.00
+T0tal Due: £26,970.00
+
+Payment by BACS within terms. Thank you for your business.

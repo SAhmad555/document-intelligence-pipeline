@@ -1,0 +1,26 @@
+Northwind Analytics LLP
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+VAT Reg No: GB 062 4893 55
+
+INVOICE
+
+Invoice No: INV-2026-0080
+Invo ice Date : 10/04/2026
+Due Dale: 24/04/2026
+
+Bill To:
+Meridian Facilities Ltd
+1 King Street, Manchester M2 6AZ
+
+Description                            Qty    Unit Price        Amount
+------------------------------------------------------------------------
+Consultancy day rate                    19       £900.70    £17,113.30
+Payroll processing fee                  10       £849.30     £8,493.00
+Office cleaning - monthly              7.5       £574.56     £4,309.20
+Catering - staff lunch                   2        £43.62        £87.24
+------------------------------------------------------------------------
+Subtotal: £30,002.74
+VAT  (20%): £6,000.55
+T0tal Due: £36,003.29
+
+Payment by BACS within terms. Thank you for your business.

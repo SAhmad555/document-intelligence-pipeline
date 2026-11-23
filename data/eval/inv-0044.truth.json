@@ -1,0 +1,24 @@
+{
+  "template": "ocr-noisy",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0044",
+    "invoiceDate": "2026-06-19",
+    "dueDate": "2026-07-19",
+    "supplierName": "Oakridge Engineering Ltd",
+    "supplierVatNumber": "GB626812099",
+    "customerName": "Oakridge Analytics LLP",
+    "currency": "GBP",
+    "subtotal": 8097.57,
+    "taxAmount": 1619.51,
+    "total": 9717.08,
+    "lineItems": [
+      {
+        "description": "Office cleaning - monthly",
+        "quantity": 9,
+        "unitPrice": 899.73,
+        "amount": 8097.57
+      }
+    ]
+  }
+}

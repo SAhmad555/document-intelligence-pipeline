@@ -1,0 +1,23 @@
+Bluebell Facilities Limited
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+
+INVOICE
+
+Invoice No: INV-2026-0036
+Invo ice Date : 27/05/2026
+Due Dale: 26/06/2026
+
+Bill To:
+Bluebell Engineering Ltd
+1 King Street, Manchester M2 6AZ
+
+Description                                          Qty      Unit Price            Amount
+------------------------------------------------------------------------
+Network switch installation                     3          $258.51          $775.53
+Software licence (annual)                      17          $791.27      $13,451.59
+------------------------------------------------------------------------
+Subtotal: $14,227.12
+VAT (20%): $2,845.42
+T0tal Due: $17,072.54
+
+Payment by BACS within terms. Thank you for your business.

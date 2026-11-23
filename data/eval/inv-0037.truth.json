@@ -1,0 +1,30 @@
+{
+  "template": "classic",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0037",
+    "invoiceDate": "2026-08-17",
+    "dueDate": null,
+    "supplierName": "Oakridge Cleaning Services Limited",
+    "supplierVatNumber": null,
+    "customerName": "Larkspur Facilities LLP",
+    "currency": "USD",
+    "subtotal": 8485.12,
+    "taxAmount": 0.00,
+    "total": 8485.12,
+    "lineItems": [
+      {
+        "description": "On-site support hours",
+        "quantity": 7.5,
+        "unitPrice": 218.39,
+        "amount": 1637.92
+      },
+      {
+        "description": "Software licence (annual)",
+        "quantity": 15,
+        "unitPrice": 456.48,
+        "amount": 6847.20
+      }
+    ]
+  }
+}

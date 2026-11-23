@@ -1,0 +1,24 @@
+{
+  "template": "classic",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0069",
+    "invoiceDate": "2026-08-04",
+    "dueDate": "2026-09-18",
+    "supplierName": "Meridian Logistics Limited",
+    "supplierVatNumber": "GB933782476",
+    "customerName": "Thistle Facilities Ltd",
+    "currency": "GBP",
+    "subtotal": 4281.06,
+    "taxAmount": 214.05,
+    "total": 4495.11,
+    "lineItems": [
+      {
+        "description": "Network switch installation",
+        "quantity": 14,
+        "unitPrice": 305.79,
+        "amount": 4281.06
+      }
+    ]
+  }
+}

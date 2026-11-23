@@ -1,0 +1,24 @@
+{
+  "template": "ocr-noisy",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "A-10476",
+    "invoiceDate": "2026-07-03",
+    "dueDate": "2026-08-02",
+    "supplierName": "Granite IT Solutions Ltd",
+    "supplierVatNumber": null,
+    "customerName": "Oakridge Engineering Ltd",
+    "currency": "GBP",
+    "subtotal": 14401.08,
+    "taxAmount": 720.05,
+    "total": 15121.13,
+    "lineItems": [
+      {
+        "description": "Catering - staff lunch",
+        "quantity": 18,
+        "unitPrice": 800.06,
+        "amount": 14401.08
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "template": "ocr-noisy",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0036",
+    "invoiceDate": "2026-05-27",
+    "dueDate": "2026-06-26",
+    "supplierName": "Bluebell Facilities Limited",
+    "supplierVatNumber": null,
+    "customerName": "Bluebell Engineering Ltd",
+    "currency": "USD",
+    "subtotal": 14227.12,
+    "taxAmount": 2845.42,
+    "total": 17072.54,
+    "lineItems": [
+      {
+        "description": "Network switch installation",
+        "quantity": 3,
+        "unitPrice": 258.51,
+        "amount": 775.53
+      },
+      {
+        "description": "Software licence (annual)",
+        "quantity": 17,
+        "unitPrice": 791.27,
+        "amount": 13451.59
+      }
+    ]
+  }
+}

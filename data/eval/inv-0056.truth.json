@@ -1,0 +1,36 @@
+{
+  "template": "ocr-noisy",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0056",
+    "invoiceDate": "2026-05-29",
+    "dueDate": "2026-07-13",
+    "supplierName": "Pennine Logistics Limited",
+    "supplierVatNumber": null,
+    "customerName": "Granite Logistics Limited",
+    "currency": "EUR",
+    "subtotal": 7935.66,
+    "taxAmount": 0.00,
+    "total": 7935.66,
+    "lineItems": [
+      {
+        "description": "Office cleaning - monthly",
+        "quantity": 17,
+        "unitPrice": 53.99,
+        "amount": 917.83
+      },
+      {
+        "description": "Payroll processing fee",
+        "quantity": 7.5,
+        "unitPrice": 722.02,
+        "amount": 5415.15
+      },
+      {
+        "description": "Courier delivery",
+        "quantity": 4,
+        "unitPrice": 400.67,
+        "amount": 1602.68
+      }
+    ]
+  }
+}

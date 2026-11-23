@@ -1,0 +1,19 @@
+# Tax Invoice
+
+Inv # SI000050
+Issue date: 2026-08-22
+Payment due: 2026-10-06
+Supplier: Bluebell Engineering Ltd
+Tax ID: GB581896760
+Customer: Larkspur Cleaning Services Ltd
+
+| Item | Qty | Unit | Line total |
+|---|---|---|---|
+| Printed brochures (A4, 500) | 18 | GBP 554.88 | GBP 9,987.84 |
+| Network switch installation | 7.5 | GBP 423.52 | GBP 3,176.40 |
+| On-site support hours | 18 | GBP 452.38 | GBP 8,142.84 |
+| Courier delivery | 7.5 | GBP 235.13 | GBP 1,763.48 |
+
+Net total: GBP 23,070.56
+Tax @ 5%: GBP 1,153.53
+Amount due: GBP 24,224.09

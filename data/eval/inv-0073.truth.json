@@ -1,0 +1,30 @@
+{
+  "template": "classic",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "7073/B",
+    "invoiceDate": "2026-06-19",
+    "dueDate": "2026-07-19",
+    "supplierName": "Harbour Analytics Ltd",
+    "supplierVatNumber": "IE3053707W",
+    "customerName": "Northwind Recruitment Ltd",
+    "currency": "EUR",
+    "subtotal": 10896.56,
+    "taxAmount": 0.00,
+    "total": 10896.56,
+    "lineItems": [
+      {
+        "description": "Pallet storage (per week)",
+        "quantity": 16,
+        "unitPrice": 436.68,
+        "amount": 6986.88
+      },
+      {
+        "description": "Temporary staff hours",
+        "quantity": 7.5,
+        "unitPrice": 521.29,
+        "amount": 3909.68
+      }
+    ]
+  }
+}

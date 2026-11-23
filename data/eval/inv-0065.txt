@@ -1,0 +1,27 @@
+Bluebell Engineering Ltd
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+VAT Reg No: GB 836 4509 69
+
+INVOICE
+
+Invoice No: INV-2026-0065
+Invoice Date: 24/02/2026
+Due Date: 26/03/2026
+
+Bill To:
+Granite Logistics Ltd
+1 King Street, Manchester M2 6AZ
+
+Description                            Qty    Unit Price        Amount
+------------------------------------------------------------------------
+Catering - staff lunch                  14       £407.34     £5,702.76
+Temporary staff hours                  7.5       £401.47     £3,011.02
+Payroll processing fee                  17       £100.34     £1,705.78
+Network switch installation             11       £316.69     £3,483.59
+Temporary staff hours                   10        £22.54       £225.40
+------------------------------------------------------------------------
+Subtotal: £14,128.55
+VAT (5%): £706.43
+Total Due: £14,834.98
+
+Payment by BACS within terms. Thank you for your business.

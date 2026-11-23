@@ -1,0 +1,25 @@
+Larkspur IT Solutions Limited
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+
+INVOICE
+
+lnvoice N0: A-10504
+Invo ice Date : 27/05/2026
+Due Dale: 26/06/2026
+
+BilI To:
+Northwind Engineering Ltd
+1 King Street, Manchester M2 6AZ
+
+Description                            Qty    Unit Price        Amount
+------------------------------------------------------------------------
+Office cleaning - monthly              7.5       $612.94     $4,597.05
+Payroll processing fee                 7.5       $904.66     $6,784.95
+Office cleaning - monthly               18       $472.29     $8,501.22
+Payroll processing fee                   2       $149.33       $298.66
+------------------------------------------------------------------------
+Sub tota1: $20,181.88
+VAT  (20%): $4,036.38
+Total Due: $24,218.26
+
+Payment by BACS within terms. Thank you for your business.

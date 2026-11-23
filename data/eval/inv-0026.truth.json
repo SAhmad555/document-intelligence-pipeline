@@ -1,0 +1,48 @@
+{
+  "template": "modern",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0026",
+    "invoiceDate": "2026-04-17",
+    "dueDate": null,
+    "supplierName": "Copperfield Cleaning Services Ltd",
+    "supplierVatNumber": "GB104847559",
+    "customerName": "Granite Facilities LLP",
+    "currency": "GBP",
+    "subtotal": 15179.76,
+    "taxAmount": 3035.95,
+    "total": 18215.71,
+    "lineItems": [
+      {
+        "description": "Temporary staff hours",
+        "quantity": 8,
+        "unitPrice": 294.16,
+        "amount": 2353.28
+      },
+      {
+        "description": "On-site support hours",
+        "quantity": 2,
+        "unitPrice": 54.95,
+        "amount": 109.90
+      },
+      {
+        "description": "On-site support hours",
+        "quantity": 2,
+        "unitPrice": 651.43,
+        "amount": 1302.86
+      },
+      {
+        "description": "Network switch installation",
+        "quantity": 20,
+        "unitPrice": 495.63,
+        "amount": 9912.60
+      },
+      {
+        "description": "Courier delivery",
+        "quantity": 7.5,
+        "unitPrice": 200.15,
+        "amount": 1501.12
+      }
+    ]
+  }
+}

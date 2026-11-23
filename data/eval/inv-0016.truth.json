@@ -1,0 +1,24 @@
+{
+  "template": "ocr-noisy",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0016",
+    "invoiceDate": "2026-03-31",
+    "dueDate": "2026-04-30",
+    "supplierName": "Harbour Consulting Ltd",
+    "supplierVatNumber": "GB491624536",
+    "customerName": "Harbour Logistics Ltd",
+    "currency": "GBP",
+    "subtotal": 3142.60,
+    "taxAmount": 157.13,
+    "total": 3299.73,
+    "lineItems": [
+      {
+        "description": "Equipment hire",
+        "quantity": 5,
+        "unitPrice": 628.52,
+        "amount": 3142.60
+      }
+    ]
+  }
+}

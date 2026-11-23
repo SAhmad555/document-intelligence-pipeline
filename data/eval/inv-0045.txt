@@ -1,0 +1,23 @@
+Copperfield Logistics Limited
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+
+INVOICE
+
+Invoice No: INV-2026-0045
+Invoice Date: 13/10/2026
+Due Date: 12/11/2026
+
+Bill To:
+Harbour Consulting Limited
+1 King Street, Manchester M2 6AZ
+
+Description                            Qty    Unit Price        Amount
+------------------------------------------------------------------------
+Pallet storage (per week)               15       €794.10    €11,911.50
+Software licence (annual)              7.5       €689.92     €5,174.40
+------------------------------------------------------------------------
+Subtotal: €17,085.90
+VAT (20%): €3,417.18
+Total Due: €20,503.08
+
+Payment by BACS within terms. Thank you for your business.

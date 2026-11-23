@@ -1,0 +1,24 @@
+Larkspur Catering LLP
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+
+INVOICE
+
+lnvoice N0: INV-2026-0020
+Invoice Date: 06/10/2026
+Due Date: 05/11/2026
+
+BilI To:
+Pennine Print Works LLP
+1 King Street, Manchester M2 6AZ
+
+Description                            Qty    Unit Price        Amount
+------------------------------------------------------------------------
+Network switch installation             12       £189.42     £2,273.04
+Courier delivery                         4       £347.77     £1,391.08
+Consultancy day rate                    15       £604.01     £9,060.15
+------------------------------------------------------------------------
+Sub tota1: £12,724.27
+VAT (20%): £2,544.85
+T0tal Due: £15,269.12
+
+Payment by BACS within terms. Thank you for your business.

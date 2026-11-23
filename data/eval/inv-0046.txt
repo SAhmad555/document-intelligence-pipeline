@@ -1,0 +1,17 @@
+# Tax Invoice
+
+Inv # INV-2026-0046
+Issue date: 2026-01-17
+Payment due: 2026-02-16
+Supplier: Larkspur IT Solutions Ltd
+Tax ID: IE2092090W
+Customer: Northwind Engineering Limited
+
+| Item | Qty | Unit | Line total |
+|---|---|---|---|
+| Printed brochures (A4, 500) | 6 | EUR 268.47 | EUR 1,610.82 |
+| Payroll processing fee | 19 | EUR 292.88 | EUR 5,564.72 |
+
+Net total: EUR 7,175.54
+Tax @ 20%: EUR 1,435.11
+Amount due: EUR 8,610.65

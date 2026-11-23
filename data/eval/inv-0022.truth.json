@@ -1,0 +1,24 @@
+{
+  "template": "modern",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "7022/B",
+    "invoiceDate": "2026-04-04",
+    "dueDate": null,
+    "supplierName": "Granite IT Solutions Ltd",
+    "supplierVatNumber": null,
+    "customerName": "Granite Recruitment Ltd",
+    "currency": "GBP",
+    "subtotal": 694.45,
+    "taxAmount": 138.89,
+    "total": 833.34,
+    "lineItems": [
+      {
+        "description": "Pallet storage (per week)",
+        "quantity": 5,
+        "unitPrice": 138.89,
+        "amount": 694.45
+      }
+    ]
+  }
+}

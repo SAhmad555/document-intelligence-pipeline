@@ -1,0 +1,42 @@
+{
+  "template": "email",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0015",
+    "invoiceDate": "2026-03-28",
+    "dueDate": "2026-04-27",
+    "supplierName": "Bluebell Engineering Limited",
+    "supplierVatNumber": null,
+    "customerName": "Larkspur Consulting Ltd",
+    "currency": "EUR",
+    "subtotal": 14030.10,
+    "taxAmount": 2806.02,
+    "total": 16836.12,
+    "lineItems": [
+      {
+        "description": "Software licence (annual)",
+        "quantity": 8,
+        "unitPrice": 141.25,
+        "amount": 1130.00
+      },
+      {
+        "description": "Pallet storage (per week)",
+        "quantity": 10,
+        "unitPrice": 476.66,
+        "amount": 4766.60
+      },
+      {
+        "description": "Catering - staff lunch",
+        "quantity": 14,
+        "unitPrice": 153.53,
+        "amount": 2149.42
+      },
+      {
+        "description": "Equipment hire",
+        "quantity": 8,
+        "unitPrice": 748.01,
+        "amount": 5984.08
+      }
+    ]
+  }
+}

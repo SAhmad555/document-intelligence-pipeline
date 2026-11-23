@@ -1,0 +1,16 @@
+# Tax Invoice
+
+Inv # SI000018
+Issue date: 2026-06-29
+Supplier: Thistle Facilities Ltd
+Customer: Oakridge IT Solutions Limited
+
+| Item | Qty | Unit | Line total |
+|---|---|---|---|
+| Courier delivery | 19 | USD 782.99 | USD 14,876.81 |
+| Printed brochures (A4, 500) | 5 | USD 565.14 | USD 2,825.70 |
+| On-site support hours | 1 | USD 58.11 | USD 58.11 |
+
+Net total: USD 17,760.62
+Tax @ 20%: USD 3,552.12
+Amount due: USD 21,312.74

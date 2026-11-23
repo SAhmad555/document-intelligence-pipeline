@@ -1,0 +1,24 @@
+{
+  "template": "ocr-noisy",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "7024/B",
+    "invoiceDate": "2026-08-01",
+    "dueDate": "2026-08-31",
+    "supplierName": "Bluebell Cleaning Services Limited",
+    "supplierVatNumber": null,
+    "customerName": "Thistle Consulting LLP",
+    "currency": "USD",
+    "subtotal": 1315.35,
+    "taxAmount": 263.07,
+    "total": 1578.42,
+    "lineItems": [
+      {
+        "description": "Network switch installation",
+        "quantity": 5,
+        "unitPrice": 263.07,
+        "amount": 1315.35
+      }
+    ]
+  }
+}

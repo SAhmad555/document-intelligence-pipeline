@@ -1,0 +1,30 @@
+{
+  "template": "email",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "7023/B",
+    "invoiceDate": "2026-04-05",
+    "dueDate": "2026-05-05",
+    "supplierName": "Harbour Engineering Ltd",
+    "supplierVatNumber": "GB589510777",
+    "customerName": "Pennine Facilities Limited",
+    "currency": "GBP",
+    "subtotal": 1509.56,
+    "taxAmount": 301.91,
+    "total": 1811.47,
+    "lineItems": [
+      {
+        "description": "Software licence (annual)",
+        "quantity": 17,
+        "unitPrice": 44.92,
+        "amount": 763.64
+      },
+      {
+        "description": "Catering - staff lunch",
+        "quantity": 16,
+        "unitPrice": 46.62,
+        "amount": 745.92
+      }
+    ]
+  }
+}

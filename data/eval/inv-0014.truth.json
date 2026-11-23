@@ -1,0 +1,30 @@
+{
+  "template": "modern",
+  "hasArithmeticError": true,
+  "truth": {
+    "invoiceNumber": "7014/B",
+    "invoiceDate": "2026-09-16",
+    "dueDate": "2026-10-31",
+    "supplierName": "Thistle Logistics Ltd",
+    "supplierVatNumber": "GB324880848",
+    "customerName": "Larkspur Cleaning Services Limited",
+    "currency": "GBP",
+    "subtotal": 18796.50,
+    "taxAmount": 3759.30,
+    "total": 22565.80,
+    "lineItems": [
+      {
+        "description": "Office cleaning - monthly",
+        "quantity": 20,
+        "unitPrice": 653.80,
+        "amount": 13076.00
+      },
+      {
+        "description": "Printed brochures (A4, 500)",
+        "quantity": 10,
+        "unitPrice": 572.05,
+        "amount": 5720.50
+      }
+    ]
+  }
+}

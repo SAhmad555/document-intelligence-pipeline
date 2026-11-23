@@ -1,0 +1,36 @@
+{
+  "template": "modern",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "SI000018",
+    "invoiceDate": "2026-06-29",
+    "dueDate": null,
+    "supplierName": "Thistle Facilities Ltd",
+    "supplierVatNumber": null,
+    "customerName": "Oakridge IT Solutions Limited",
+    "currency": "USD",
+    "subtotal": 17760.62,
+    "taxAmount": 3552.12,
+    "total": 21312.74,
+    "lineItems": [
+      {
+        "description": "Courier delivery",
+        "quantity": 19,
+        "unitPrice": 782.99,
+        "amount": 14876.81
+      },
+      {
+        "description": "Printed brochures (A4, 500)",
+        "quantity": 5,
+        "unitPrice": 565.14,
+        "amount": 2825.70
+      },
+      {
+        "description": "On-site support hours",
+        "quantity": 1,
+        "unitPrice": 58.11,
+        "amount": 58.11
+      }
+    ]
+  }
+}

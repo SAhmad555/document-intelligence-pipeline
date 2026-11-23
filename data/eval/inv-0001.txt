@@ -1,0 +1,23 @@
+Oakridge Facilities Ltd
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+VAT Reg No: IE5332508W
+
+INVOICE
+
+Invoice No: A-10007
+Invoice Date: 24/02/2026
+Due Date: 26/03/2026
+
+Bill To:
+Meridian Catering Ltd
+1 King Street, Manchester M2 6AZ
+
+Description                            Qty    Unit Price        Amount
+------------------------------------------------------------------------
+Network switch installation              4       €251.33     €1,005.32
+------------------------------------------------------------------------
+Subtotal: €1,005.32
+VAT (20%): €201.06
+Total Due: €1,206.38
+
+Payment by BACS within terms. Thank you for your business.

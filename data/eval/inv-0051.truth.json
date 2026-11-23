@@ -1,0 +1,42 @@
+{
+  "template": "email",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "7051/B",
+    "invoiceDate": "2026-05-26",
+    "dueDate": null,
+    "supplierName": "Thistle Print Works Ltd",
+    "supplierVatNumber": null,
+    "customerName": "Pennine IT Solutions LLP",
+    "currency": "USD",
+    "subtotal": 22354.42,
+    "taxAmount": 0.00,
+    "total": 22354.42,
+    "lineItems": [
+      {
+        "description": "On-site support hours",
+        "quantity": 11,
+        "unitPrice": 56.17,
+        "amount": 617.87
+      },
+      {
+        "description": "Software licence (annual)",
+        "quantity": 4,
+        "unitPrice": 492.70,
+        "amount": 1970.80
+      },
+      {
+        "description": "On-site support hours",
+        "quantity": 7.5,
+        "unitPrice": 337.14,
+        "amount": 2528.55
+      },
+      {
+        "description": "On-site support hours",
+        "quantity": 20,
+        "unitPrice": 861.86,
+        "amount": 17237.20
+      }
+    ]
+  }
+}

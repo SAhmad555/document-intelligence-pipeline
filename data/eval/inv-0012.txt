@@ -1,0 +1,25 @@
+Meridian Catering LLP
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+
+INVOICE
+
+lnvoice N0: A-10084
+Invoice Date: 12/07/2026
+
+Bill To:
+Granite Recruitment Limited
+1 King Street, Manchester M2 6AZ
+
+Description                                          Qty      Unit Price            Amount
+------------------------------------------------------------------------
+Software licence (annual)                        4          $354.47       $1,417.88
+Catering - staff lunch                            3            $19.56            $58.68
+Temporary staff hours                           7.5          $226.88       $1,701.60
+Catering - staff lunch                           17          $374.06       $6,359.02
+Printed brochures (A4, 500)                   16          $274.60       $4,393.60
+------------------------------------------------------------------------
+Subtotal: $13,930.78
+VAT (0%): $0.00
+Total Due: $13,940.78
+
+Payment by BACS within terms. Thank you for your business.

@@ -1,0 +1,30 @@
+{
+  "template": "ocr-noisy",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "SI000028",
+    "invoiceDate": "2026-02-02",
+    "dueDate": "2026-03-19",
+    "supplierName": "Thistle Facilities Ltd",
+    "supplierVatNumber": "IE5016673W",
+    "customerName": "Bluebell Recruitment Ltd",
+    "currency": "EUR",
+    "subtotal": 2160.22,
+    "taxAmount": 0.00,
+    "total": 2160.22,
+    "lineItems": [
+      {
+        "description": "Printed brochures (A4, 500)",
+        "quantity": 6,
+        "unitPrice": 78.27,
+        "amount": 469.62
+      },
+      {
+        "description": "Payroll processing fee",
+        "quantity": 5,
+        "unitPrice": 338.12,
+        "amount": 1690.60
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+Pennine Cleaning Services Limited
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+
+INVOICE
+
+Invoice No: INV-2026-0013
+Invoice Date: 12/02/2026
+Due Date: 14/03/2026
+
+Bill To:
+Harbour IT Solutions Ltd
+1 King Street, Manchester M2 6AZ
+
+Description                            Qty    Unit Price        Amount
+------------------------------------------------------------------------
+Payroll processing fee                  15       €884.68    €13,270.20
+On-site support hours                    9       €831.11     €7,479.99
+Printed brochures (A4, 500)             17       €339.34     €5,768.78
+Temporary staff hours                   19        €68.88     €1,308.72
+Software licence (annual)               18       €365.60     €6,580.80
+------------------------------------------------------------------------
+Subtotal: €34,408.49
+VAT (0%): €0.00
+Total Due: €34,408.49
+
+Payment by BACS within terms. Thank you for your business.

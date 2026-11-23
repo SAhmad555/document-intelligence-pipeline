@@ -1,0 +1,22 @@
+Larkspur Logistics Limited
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+
+INVOICE
+
+Invoice No: INV-2026-0025
+Invoice Date: 21/10/2026
+Due Date: 04/11/2026
+
+Bill To:
+Oakridge Facilities Ltd
+1 King Street, Manchester M2 6AZ
+
+Description                            Qty    Unit Price        Amount
+------------------------------------------------------------------------
+Network switch installation             11       $462.17     $5,083.87
+------------------------------------------------------------------------
+Subtotal: $5,083.87
+VAT (20%): $1,016.77
+Total Due: $6,100.64
+
+Payment by BACS within terms. Thank you for your business.

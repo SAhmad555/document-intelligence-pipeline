@@ -1,0 +1,24 @@
+{
+  "template": "ocr-noisy",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "SI000076",
+    "invoiceDate": "2026-06-20",
+    "dueDate": "2026-07-04",
+    "supplierName": "Copperfield Recruitment Limited",
+    "supplierVatNumber": "GB973097946",
+    "customerName": "Copperfield Consulting LLP",
+    "currency": "GBP",
+    "subtotal": 1802.90,
+    "taxAmount": 360.58,
+    "total": 2163.48,
+    "lineItems": [
+      {
+        "description": "Temporary staff hours",
+        "quantity": 10,
+        "unitPrice": 180.29,
+        "amount": 1802.90
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "template": "ocr-noisy",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "7052/B",
+    "invoiceDate": "2026-10-18",
+    "dueDate": "2026-11-17",
+    "supplierName": "Northwind Engineering Limited",
+    "supplierVatNumber": "GB102740844",
+    "customerName": "Pennine Print Works Ltd",
+    "currency": "GBP",
+    "subtotal": 29938.23,
+    "taxAmount": 5987.65,
+    "total": 35925.88,
+    "lineItems": [
+      {
+        "description": "Catering - staff lunch",
+        "quantity": 16,
+        "unitPrice": 828.20,
+        "amount": 13251.20
+      },
+      {
+        "description": "Payroll processing fee",
+        "quantity": 7,
+        "unitPrice": 87.58,
+        "amount": 613.06
+      },
+      {
+        "description": "Software licence (annual)",
+        "quantity": 11,
+        "unitPrice": 768.87,
+        "amount": 8457.57
+      },
+      {
+        "description": "Network switch installation",
+        "quantity": 12,
+        "unitPrice": 634.70,
+        "amount": 7616.40
+      }
+    ]
+  }
+}

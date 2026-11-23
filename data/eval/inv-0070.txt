@@ -1,0 +1,17 @@
+# Tax Invoice
+
+Inv # A-10490
+Issue date: 2026-09-05
+Supplier: Meridian Print Works LLP
+Customer: Bluebell Recruitment LLP
+
+| Item | Qty | Unit | Line total |
+|---|---|---|---|
+| Payroll processing fee | 7 | GBP 497.96 | GBP 3,485.72 |
+| Printed brochures (A4, 500) | 7.5 | GBP 587.77 | GBP 4,408.28 |
+| Consultancy day rate | 20 | GBP 730.88 | GBP 14,617.60 |
+| Payroll processing fee | 10 | GBP 614.71 | GBP 6,147.10 |
+
+Net total: GBP 28,658.70
+Tax @ 5%: GBP 1,432.94
+Amount due: GBP 30,091.64

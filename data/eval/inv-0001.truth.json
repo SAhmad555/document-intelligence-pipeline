@@ -1,0 +1,24 @@
+{
+  "template": "classic",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "A-10007",
+    "invoiceDate": "2026-02-24",
+    "dueDate": "2026-03-26",
+    "supplierName": "Oakridge Facilities Ltd",
+    "supplierVatNumber": "IE5332508W",
+    "customerName": "Meridian Catering Ltd",
+    "currency": "EUR",
+    "subtotal": 1005.32,
+    "taxAmount": 201.06,
+    "total": 1206.38,
+    "lineItems": [
+      {
+        "description": "Network switch installation",
+        "quantity": 4,
+        "unitPrice": 251.33,
+        "amount": 1005.32
+      }
+    ]
+  }
+}

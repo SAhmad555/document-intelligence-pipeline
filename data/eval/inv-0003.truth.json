@@ -1,0 +1,36 @@
+{
+  "template": "email",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "A-10021",
+    "invoiceDate": "2026-04-23",
+    "dueDate": "2026-05-07",
+    "supplierName": "Granite Analytics Ltd",
+    "supplierVatNumber": "IE1475429W",
+    "customerName": "Kestrel IT Solutions Ltd",
+    "currency": "EUR",
+    "subtotal": 7582.65,
+    "taxAmount": 1516.53,
+    "total": 9099.18,
+    "lineItems": [
+      {
+        "description": "Consultancy day rate",
+        "quantity": 1,
+        "unitPrice": 760.95,
+        "amount": 760.95
+      },
+      {
+        "description": "Catering - staff lunch",
+        "quantity": 7.5,
+        "unitPrice": 72.40,
+        "amount": 543.00
+      },
+      {
+        "description": "Equipment hire",
+        "quantity": 7.5,
+        "unitPrice": 837.16,
+        "amount": 6278.70
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+Pennine Logistics Limited
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+
+INVOICE
+
+Invoice No: INV-2026-0056
+Invo ice Date : 29/05/2026
+Due Dale: 13/07/2026
+
+BilI To:
+Granite Logistics Limited
+1 King Street, Manchester M2 6AZ
+
+Description                            Qty    Unit Price        Amount
+------------------------------------------------------------------------
+Office cleaning - monthly               17        €53.99       €917.83
+Payroll processing fee                 7.5       €722.02     €5,415.15
+Courier delivery                         4       €400.67     €1,602.68
+------------------------------------------------------------------------
+Sub tota1: €7,935.66
+VAT  (0%): €0.00
+T0tal Due: €7,935.66
+
+Payment by BACS within terms. Thank you for your business.

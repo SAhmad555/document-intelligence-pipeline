@@ -1,0 +1,26 @@
+Northwind Engineering Limited
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+VAT Reg No: GB 102 7408 44
+
+INVOICE
+
+Invoice No: 7052/B
+Invoice Date: 18/10/2026
+Due Dale: 17/11/2026
+
+BilI To:
+Pennine Print Works Ltd
+1 King Street, Manchester M2 6AZ
+
+Description                            Qty    Unit Price        Amount
+------------------------------------------------------------------------
+Catering - staff lunch                  16       £828.20    £13,251.20
+Payroll processing fee                   7        £87.58       £613.06
+Software licence (annual)               11       £768.87     £8,457.57
+Network switch installation             12       £634.70     £7,616.40
+------------------------------------------------------------------------
+Sub tota1: £29,938.23
+VAT (20%): £5,987.65
+T0tal Due: £35,925.88
+
+Payment by BACS within terms. Thank you for your business.

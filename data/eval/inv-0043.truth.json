@@ -1,0 +1,30 @@
+{
+  "template": "email",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "7043/B",
+    "invoiceDate": "2026-08-23",
+    "dueDate": "2026-09-22",
+    "supplierName": "Larkspur Facilities LLP",
+    "supplierVatNumber": "GB628549637",
+    "customerName": "Harbour Recruitment Ltd",
+    "currency": "GBP",
+    "subtotal": 3583.32,
+    "taxAmount": 716.66,
+    "total": 4299.98,
+    "lineItems": [
+      {
+        "description": "Network switch installation",
+        "quantity": 1,
+        "unitPrice": 634.32,
+        "amount": 634.32
+      },
+      {
+        "description": "Equipment hire",
+        "quantity": 6,
+        "unitPrice": 491.50,
+        "amount": 2949.00
+      }
+    ]
+  }
+}

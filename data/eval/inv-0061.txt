@@ -1,0 +1,23 @@
+Oakridge Cleaning Services Ltd
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+VAT Reg No: GB 289 6031 49
+
+INVOICE
+
+Invoice No: INV-2026-0061
+Invoice Date: 15/08/2026
+Due Date: 29/09/2026
+
+Bill To:
+Northwind Logistics Limited
+1 King Street, Manchester M2 6AZ
+
+Description                            Qty    Unit Price        Amount
+------------------------------------------------------------------------
+Courier delivery                         3       £650.70     £1,952.10
+------------------------------------------------------------------------
+Subtotal: £1,952.10
+VAT (20%): £390.42
+Total Due: £2,342.52
+
+Payment by BACS within terms. Thank you for your business.

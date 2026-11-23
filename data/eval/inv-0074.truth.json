@@ -1,0 +1,48 @@
+{
+  "template": "modern",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "7074/B",
+    "invoiceDate": "2026-09-02",
+    "dueDate": null,
+    "supplierName": "Copperfield Logistics Ltd",
+    "supplierVatNumber": "GB119932667",
+    "customerName": "Harbour Catering Limited",
+    "currency": "GBP",
+    "subtotal": 24099.26,
+    "taxAmount": 4819.85,
+    "total": 28919.11,
+    "lineItems": [
+      {
+        "description": "Software licence (annual)",
+        "quantity": 3,
+        "unitPrice": 221.50,
+        "amount": 664.50
+      },
+      {
+        "description": "On-site support hours",
+        "quantity": 20,
+        "unitPrice": 74.61,
+        "amount": 1492.20
+      },
+      {
+        "description": "Courier delivery",
+        "quantity": 17,
+        "unitPrice": 39.56,
+        "amount": 672.52
+      },
+      {
+        "description": "On-site support hours",
+        "quantity": 20,
+        "unitPrice": 815.93,
+        "amount": 16318.60
+      },
+      {
+        "description": "Software licence (annual)",
+        "quantity": 12,
+        "unitPrice": 412.62,
+        "amount": 4951.44
+      }
+    ]
+  }
+}

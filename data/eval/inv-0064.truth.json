@@ -1,0 +1,30 @@
+{
+  "template": "ocr-noisy",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "7064/B",
+    "invoiceDate": "2026-05-18",
+    "dueDate": null,
+    "supplierName": "Meridian IT Solutions LLP",
+    "supplierVatNumber": "GB775007905",
+    "customerName": "Thistle Logistics Ltd",
+    "currency": "GBP",
+    "subtotal": 3719.19,
+    "taxAmount": 743.84,
+    "total": 4463.03,
+    "lineItems": [
+      {
+        "description": "Printed brochures (A4, 500)",
+        "quantity": 5,
+        "unitPrice": 706.51,
+        "amount": 3532.55
+      },
+      {
+        "description": "Catering - staff lunch",
+        "quantity": 2,
+        "unitPrice": 93.32,
+        "amount": 186.64
+      }
+    ]
+  }
+}

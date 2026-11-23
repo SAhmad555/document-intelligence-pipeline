@@ -1,0 +1,48 @@
+{
+  "template": "classic",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0065",
+    "invoiceDate": "2026-02-24",
+    "dueDate": "2026-03-26",
+    "supplierName": "Bluebell Engineering Ltd",
+    "supplierVatNumber": "GB836450969",
+    "customerName": "Granite Logistics Ltd",
+    "currency": "GBP",
+    "subtotal": 14128.55,
+    "taxAmount": 706.43,
+    "total": 14834.98,
+    "lineItems": [
+      {
+        "description": "Catering - staff lunch",
+        "quantity": 14,
+        "unitPrice": 407.34,
+        "amount": 5702.76
+      },
+      {
+        "description": "Temporary staff hours",
+        "quantity": 7.5,
+        "unitPrice": 401.47,
+        "amount": 3011.02
+      },
+      {
+        "description": "Payroll processing fee",
+        "quantity": 17,
+        "unitPrice": 100.34,
+        "amount": 1705.78
+      },
+      {
+        "description": "Network switch installation",
+        "quantity": 11,
+        "unitPrice": 316.69,
+        "amount": 3483.59
+      },
+      {
+        "description": "Temporary staff hours",
+        "quantity": 10,
+        "unitPrice": 22.54,
+        "amount": 225.40
+      }
+    ]
+  }
+}

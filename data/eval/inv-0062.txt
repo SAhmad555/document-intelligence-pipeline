@@ -1,0 +1,14 @@
+# Tax Invoice
+
+Inv # INV-2026-0062
+Issue date: 2026-08-08
+Supplier: Thistle Print Works Limited
+Customer: Copperfield Analytics Ltd
+
+| Item | Qty | Unit | Line total |
+|---|---|---|---|
+| Consultancy day rate | 6 | GBP 662.28 | GBP 3,973.68 |
+
+Net total: GBP 3,973.68
+Tax @ 20%: GBP 794.74
+Amount due: GBP 4,768.42

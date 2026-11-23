@@ -1,0 +1,36 @@
+{
+  "template": "email",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0055",
+    "invoiceDate": "2026-08-23",
+    "dueDate": "2026-09-22",
+    "supplierName": "Granite Engineering Ltd",
+    "supplierVatNumber": "IE6456477W",
+    "customerName": "Bluebell Recruitment LLP",
+    "currency": "EUR",
+    "subtotal": 19213.18,
+    "taxAmount": 3842.64,
+    "total": 23055.82,
+    "lineItems": [
+      {
+        "description": "Pallet storage (per week)",
+        "quantity": 20,
+        "unitPrice": 771.51,
+        "amount": 15430.20
+      },
+      {
+        "description": "Pallet storage (per week)",
+        "quantity": 7.5,
+        "unitPrice": 392.78,
+        "amount": 2945.85
+      },
+      {
+        "description": "Office cleaning - monthly",
+        "quantity": 7,
+        "unitPrice": 119.59,
+        "amount": 837.13
+      }
+    ]
+  }
+}

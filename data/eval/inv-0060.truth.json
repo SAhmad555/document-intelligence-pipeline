@@ -1,0 +1,36 @@
+{
+  "template": "ocr-noisy",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "SI000060",
+    "invoiceDate": "2026-04-06",
+    "dueDate": "2026-05-21",
+    "supplierName": "Meridian Cleaning Services Ltd",
+    "supplierVatNumber": null,
+    "customerName": "Bluebell Catering Limited",
+    "currency": "GBP",
+    "subtotal": 5097.70,
+    "taxAmount": 1019.54,
+    "total": 6117.24,
+    "lineItems": [
+      {
+        "description": "Temporary staff hours",
+        "quantity": 13,
+        "unitPrice": 214.85,
+        "amount": 2793.05
+      },
+      {
+        "description": "Consultancy day rate",
+        "quantity": 7.5,
+        "unitPrice": 190.36,
+        "amount": 1427.70
+      },
+      {
+        "description": "Temporary staff hours",
+        "quantity": 1,
+        "unitPrice": 876.95,
+        "amount": 876.95
+      }
+    ]
+  }
+}

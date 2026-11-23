@@ -1,0 +1,16 @@
+# Tax Invoice
+
+Inv # 7078/B
+Issue date: 2026-03-19
+Payment due: 2026-05-03
+Supplier: Meridian Print Works Ltd
+Customer: Harbour Facilities Limited
+
+| Item | Qty | Unit | Line total |
+|---|---|---|---|
+| Courier delivery | 5 | USD 887.93 | USD 4,439.65 |
+| Courier delivery | 6 | USD 75.29 | USD 451.74 |
+
+Net total: USD 4,891.39
+Tax @ 0%: USD 0.00
+Amount due: USD 4,891.39

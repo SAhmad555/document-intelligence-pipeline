@@ -1,0 +1,24 @@
+{
+  "template": "modern",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0062",
+    "invoiceDate": "2026-08-08",
+    "dueDate": null,
+    "supplierName": "Thistle Print Works Limited",
+    "supplierVatNumber": null,
+    "customerName": "Copperfield Analytics Ltd",
+    "currency": "GBP",
+    "subtotal": 3973.68,
+    "taxAmount": 794.74,
+    "total": 4768.42,
+    "lineItems": [
+      {
+        "description": "Consultancy day rate",
+        "quantity": 6,
+        "unitPrice": 662.28,
+        "amount": 3973.68
+      }
+    ]
+  }
+}

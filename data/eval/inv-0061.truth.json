@@ -1,0 +1,24 @@
+{
+  "template": "classic",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0061",
+    "invoiceDate": "2026-08-15",
+    "dueDate": "2026-09-29",
+    "supplierName": "Oakridge Cleaning Services Ltd",
+    "supplierVatNumber": "GB289603149",
+    "customerName": "Northwind Logistics Limited",
+    "currency": "GBP",
+    "subtotal": 1952.10,
+    "taxAmount": 390.42,
+    "total": 2342.52,
+    "lineItems": [
+      {
+        "description": "Courier delivery",
+        "quantity": 3,
+        "unitPrice": 650.70,
+        "amount": 1952.10
+      }
+    ]
+  }
+}

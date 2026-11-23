@@ -1,0 +1,23 @@
+Meridian Logistics Limited
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+VAT Reg No: GB 933 7824 76
+
+INVOICE
+
+Invoice No: INV-2026-0069
+Invoice Date: 04/08/2026
+Due Date: 18/09/2026
+
+Bill To:
+Thistle Facilities Ltd
+1 King Street, Manchester M2 6AZ
+
+Description                            Qty    Unit Price        Amount
+------------------------------------------------------------------------
+Network switch installation             14       £305.79     £4,281.06
+------------------------------------------------------------------------
+Subtotal: £4,281.06
+VAT (5%): £214.05
+Total Due: £4,495.11
+
+Payment by BACS within terms. Thank you for your business.

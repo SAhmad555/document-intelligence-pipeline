@@ -1,0 +1,22 @@
+Granite IT Solutions Ltd
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+
+INVOICE
+
+Invoice No: A-10476
+Invo ice Date : 03/07/2026
+Due Date: 02/08/2026
+
+BilI To:
+Oakridge Engineering Ltd
+1 King Street, Manchester M2 6AZ
+
+Description                                          Qty      Unit Price            Amount
+------------------------------------------------------------------------
+Catering - staff lunch                           18          £800.06      £14,401.08
+------------------------------------------------------------------------
+Sub tota1: £14,401.08
+VAT   (5%): £720.05
+Total Due: £15,121.13
+
+Payment by BACS within terms. Thank you for your business.

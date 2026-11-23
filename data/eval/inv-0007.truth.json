@@ -1,0 +1,36 @@
+{
+  "template": "email",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0007",
+    "invoiceDate": "2026-03-03",
+    "dueDate": "2026-03-17",
+    "supplierName": "Harbour Print Works Ltd",
+    "supplierVatNumber": null,
+    "customerName": "Kestrel Recruitment Limited",
+    "currency": "USD",
+    "subtotal": 14092.14,
+    "taxAmount": 2818.43,
+    "total": 16910.57,
+    "lineItems": [
+      {
+        "description": "Network switch installation",
+        "quantity": 13,
+        "unitPrice": 465.81,
+        "amount": 6055.53
+      },
+      {
+        "description": "Printed brochures (A4, 500)",
+        "quantity": 17,
+        "unitPrice": 328.08,
+        "amount": 5577.36
+      },
+      {
+        "description": "Payroll processing fee",
+        "quantity": 5,
+        "unitPrice": 491.85,
+        "amount": 2459.25
+      }
+    ]
+  }
+}

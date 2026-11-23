@@ -1,0 +1,48 @@
+{
+  "template": "modern",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "A-10042",
+    "invoiceDate": "2026-03-27",
+    "dueDate": "2026-04-26",
+    "supplierName": "Meridian Recruitment Ltd",
+    "supplierVatNumber": "GB286122860",
+    "customerName": "Copperfield Consulting Ltd",
+    "currency": "GBP",
+    "subtotal": 28368.69,
+    "taxAmount": 5673.74,
+    "total": 34042.43,
+    "lineItems": [
+      {
+        "description": "Consultancy day rate",
+        "quantity": 3,
+        "unitPrice": 111.60,
+        "amount": 334.80
+      },
+      {
+        "description": "Pallet storage (per week)",
+        "quantity": 19,
+        "unitPrice": 663.09,
+        "amount": 12598.71
+      },
+      {
+        "description": "Temporary staff hours",
+        "quantity": 9,
+        "unitPrice": 127.45,
+        "amount": 1147.05
+      },
+      {
+        "description": "Pallet storage (per week)",
+        "quantity": 18,
+        "unitPrice": 170.37,
+        "amount": 3066.66
+      },
+      {
+        "description": "Payroll processing fee",
+        "quantity": 13,
+        "unitPrice": 863.19,
+        "amount": 11221.47
+      }
+    ]
+  }
+}

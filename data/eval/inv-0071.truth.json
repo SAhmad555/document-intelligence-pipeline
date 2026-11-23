@@ -1,0 +1,36 @@
+{
+  "template": "email",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "7071/B",
+    "invoiceDate": "2026-09-20",
+    "dueDate": null,
+    "supplierName": "Larkspur Print Works Ltd",
+    "supplierVatNumber": null,
+    "customerName": "Thistle Engineering Limited",
+    "currency": "GBP",
+    "subtotal": 16220.13,
+    "taxAmount": 3244.03,
+    "total": 19464.16,
+    "lineItems": [
+      {
+        "description": "Office cleaning - monthly",
+        "quantity": 12,
+        "unitPrice": 315.19,
+        "amount": 3782.28
+      },
+      {
+        "description": "Catering - staff lunch",
+        "quantity": 13,
+        "unitPrice": 736.85,
+        "amount": 9579.05
+      },
+      {
+        "description": "On-site support hours",
+        "quantity": 4,
+        "unitPrice": 714.70,
+        "amount": 2858.80
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "template": "classic",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0013",
+    "invoiceDate": "2026-02-12",
+    "dueDate": "2026-03-14",
+    "supplierName": "Pennine Cleaning Services Limited",
+    "supplierVatNumber": null,
+    "customerName": "Harbour IT Solutions Ltd",
+    "currency": "EUR",
+    "subtotal": 34408.49,
+    "taxAmount": 0.00,
+    "total": 34408.49,
+    "lineItems": [
+      {
+        "description": "Payroll processing fee",
+        "quantity": 15,
+        "unitPrice": 884.68,
+        "amount": 13270.20
+      },
+      {
+        "description": "On-site support hours",
+        "quantity": 9,
+        "unitPrice": 831.11,
+        "amount": 7479.99
+      },
+      {
+        "description": "Printed brochures (A4, 500)",
+        "quantity": 17,
+        "unitPrice": 339.34,
+        "amount": 5768.78
+      },
+      {
+        "description": "Temporary staff hours",
+        "quantity": 19,
+        "unitPrice": 68.88,
+        "amount": 1308.72
+      },
+      {
+        "description": "Software licence (annual)",
+        "quantity": 18,
+        "unitPrice": 365.60,
+        "amount": 6580.80
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "template": "classic",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "A-10399",
+    "invoiceDate": "2026-03-16",
+    "dueDate": "2026-04-15",
+    "supplierName": "Bluebell Print Works LLP",
+    "supplierVatNumber": null,
+    "customerName": "Pennine Catering Ltd",
+    "currency": "GBP",
+    "subtotal": 19072.71,
+    "taxAmount": 3814.54,
+    "total": 22887.25,
+    "lineItems": [
+      {
+        "description": "Courier delivery",
+        "quantity": 7,
+        "unitPrice": 334.00,
+        "amount": 2338.00
+      },
+      {
+        "description": "Printed brochures (A4, 500)",
+        "quantity": 17,
+        "unitPrice": 911.23,
+        "amount": 15490.91
+      },
+      {
+        "description": "Courier delivery",
+        "quantity": 18,
+        "unitPrice": 69.10,
+        "amount": 1243.80
+      }
+    ]
+  }
+}

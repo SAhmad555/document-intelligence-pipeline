@@ -1,0 +1,4 @@
+* text=auto
+# The eval dataset must be byte-identical on every OS.
+data/** text eol=lf
+*.sh text eol=lf

@@ -1,0 +1,18 @@
+# Tax Invoice
+
+Inv # A-10210
+Issue date: 2026-10-12
+Payment due: 2026-10-26
+Supplier: Meridian Recruitment Ltd
+Customer: Granite Consulting Ltd
+
+| Item | Qty | Unit | Line total |
+|---|---|---|---|
+| Courier delivery | 5 | EUR 32.44 | EUR 162.20 |
+| Payroll processing fee | 4 | EUR 873.08 | EUR 3,492.32 |
+| On-site support hours | 13 | EUR 25.60 | EUR 332.80 |
+| Courier delivery | 16 | EUR 437.32 | EUR 6,997.12 |
+
+Net total: EUR 10,984.44
+Tax @ 0%: EUR 0.00
+Amount due: EUR 10,984.44

@@ -1,0 +1,14 @@
+# Tax Invoice
+
+Inv # 7022/B
+Issue date: 2026-04-04
+Supplier: Granite IT Solutions Ltd
+Customer: Granite Recruitment Ltd
+
+| Item | Qty | Unit | Line total |
+|---|---|---|---|
+| Pallet storage (per week) | 5 | GBP 138.89 | GBP 694.45 |
+
+Net total: GBP 694.45
+Tax @ 20%: GBP 138.89
+Amount due: GBP 833.34

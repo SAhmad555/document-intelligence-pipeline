@@ -1,0 +1,16 @@
+# Tax Invoice
+
+Inv # A-10070
+Issue date: 2026-07-13
+Payment due: 2026-08-12
+Supplier: Copperfield Catering Ltd
+Tax ID: IE3586357W
+
+| Item | Qty | Unit | Line total |
+|---|---|---|---|
+| On-site support hours | 9 | EUR 400.68 | EUR 3,606.12 |
+| Network switch installation | 12 | EUR 498.78 | EUR 5,985.36 |
+
+Net total: EUR 9,591.48
+Tax @ 0%: EUR 0.00
+Amount due: EUR 9,591.48

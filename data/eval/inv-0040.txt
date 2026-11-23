@@ -1,0 +1,23 @@
+Copperfield Catering LLP
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+VAT Reg No: GB 792 6485 20
+
+INVOICE
+
+lnvoice N0: INV-2026-0040
+Invo ice Date : 27/01/2026
+Due Dale: 13/03/2026
+
+Bill To:
+Copperfield Engineering Ltd
+1 King Street, Manchester M2 6AZ
+
+Description                                          Qty      Unit Price            Amount
+------------------------------------------------------------------------
+Pallet storage (per week)                        5          £144.74          £723.70
+------------------------------------------------------------------------
+Sub tota1: £723.70
+VAT   (20%): £144.74
+T0tal Due: £868.44
+
+Payment by BACS within terms. Thank you for your business.

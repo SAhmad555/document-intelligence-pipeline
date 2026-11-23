@@ -1,0 +1,42 @@
+{
+  "template": "modern",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "A-10210",
+    "invoiceDate": "2026-10-12",
+    "dueDate": "2026-10-26",
+    "supplierName": "Meridian Recruitment Ltd",
+    "supplierVatNumber": null,
+    "customerName": "Granite Consulting Ltd",
+    "currency": "EUR",
+    "subtotal": 10984.44,
+    "taxAmount": 0.00,
+    "total": 10984.44,
+    "lineItems": [
+      {
+        "description": "Courier delivery",
+        "quantity": 5,
+        "unitPrice": 32.44,
+        "amount": 162.20
+      },
+      {
+        "description": "Payroll processing fee",
+        "quantity": 4,
+        "unitPrice": 873.08,
+        "amount": 3492.32
+      },
+      {
+        "description": "On-site support hours",
+        "quantity": 13,
+        "unitPrice": 25.60,
+        "amount": 332.80
+      },
+      {
+        "description": "Courier delivery",
+        "quantity": 16,
+        "unitPrice": 437.32,
+        "amount": 6997.12
+      }
+    ]
+  }
+}

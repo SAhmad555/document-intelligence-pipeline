@@ -1,0 +1,24 @@
+{
+  "template": "email",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0039",
+    "invoiceDate": "2026-07-28",
+    "dueDate": null,
+    "supplierName": "Silverline IT Solutions Ltd",
+    "supplierVatNumber": "GB315429793",
+    "customerName": "Larkspur Print Works Limited",
+    "currency": "GBP",
+    "subtotal": 12016.11,
+    "taxAmount": 600.81,
+    "total": 12616.92,
+    "lineItems": [
+      {
+        "description": "Network switch installation",
+        "quantity": 17,
+        "unitPrice": 706.83,
+        "amount": 12016.11
+      }
+    ]
+  }
+}

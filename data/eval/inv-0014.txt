@@ -1,0 +1,17 @@
+# Tax Invoice
+
+Inv # 7014/B
+Issue date: 2026-09-16
+Payment due: 2026-10-31
+Supplier: Thistle Logistics Ltd
+Tax ID: GB324880848
+Customer: Larkspur Cleaning Services Limited
+
+| Item | Qty | Unit | Line total |
+|---|---|---|---|
+| Office cleaning - monthly | 20 | GBP 653.80 | GBP 13,076.00 |
+| Printed brochures (A4, 500) | 10 | GBP 572.05 | GBP 5,720.50 |
+
+Net total: GBP 18,796.50
+Tax @ 20%: GBP 3,759.30
+Amount due: GBP 22,565.80

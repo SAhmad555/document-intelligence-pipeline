@@ -1,0 +1,48 @@
+{
+  "template": "email",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0075",
+    "invoiceDate": "2026-03-01",
+    "dueDate": "2026-03-31",
+    "supplierName": "Pennine Consulting LLP",
+    "supplierVatNumber": "GB063438894",
+    "customerName": "Oakridge Catering Ltd",
+    "currency": "GBP",
+    "subtotal": 21021.96,
+    "taxAmount": 4204.39,
+    "total": 25226.35,
+    "lineItems": [
+      {
+        "description": "Payroll processing fee",
+        "quantity": 15,
+        "unitPrice": 560.20,
+        "amount": 8403.00
+      },
+      {
+        "description": "Pallet storage (per week)",
+        "quantity": 17,
+        "unitPrice": 119.40,
+        "amount": 2029.80
+      },
+      {
+        "description": "Courier delivery",
+        "quantity": 14,
+        "unitPrice": 262.34,
+        "amount": 3672.76
+      },
+      {
+        "description": "Equipment hire",
+        "quantity": 7.5,
+        "unitPrice": 911.04,
+        "amount": 6832.80
+      },
+      {
+        "description": "Temporary staff hours",
+        "quantity": 1,
+        "unitPrice": 83.60,
+        "amount": 83.60
+      }
+    ]
+  }
+}

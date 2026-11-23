@@ -1,0 +1,25 @@
+Granite Recruitment LLP
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+
+INVOICE
+
+Invoice No: A-10119
+Invoice Date: 12/07/2026
+Due Date: 11/08/2026
+
+Bill To:
+Silverline Catering Ltd
+1 King Street, Manchester M2 6AZ
+
+Description                            Qty    Unit Price        Amount
+------------------------------------------------------------------------
+Printed brochures (A4, 500)             18        £54.42       £979.56
+Software licence (annual)               18        £83.94     £1,510.92
+Office cleaning - monthly                6       £126.25       £757.50
+On-site support hours                  7.5       £150.83     £1,131.22
+------------------------------------------------------------------------
+Subtotal: £4,379.20
+VAT (20%): £875.84
+Total Due: £5,255.04
+
+Payment by BACS within terms. Thank you for your business.

@@ -1,0 +1,23 @@
+Meridian Analytics Ltd
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+VAT Reg No: GB 824 4087 96
+
+INVOICE
+
+Invoice No: SI000021
+Invoice Date: 25/09/2026
+Due Date: 09/11/2026
+
+Bill To:
+Meridian Catering Limited
+1 King Street, Manchester M2 6AZ
+
+Description                            Qty    Unit Price        Amount
+------------------------------------------------------------------------
+Temporary staff hours                    2       £108.00       £216.00
+------------------------------------------------------------------------
+Subtotal: £216.00
+VAT (20%): £43.20
+Total Due: £259.20
+
+Payment by BACS within terms. Thank you for your business.

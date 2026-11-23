@@ -1,0 +1,48 @@
+{
+  "template": "email",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0063",
+    "invoiceDate": "2026-04-10",
+    "dueDate": null,
+    "supplierName": "Northwind Cleaning Services Ltd",
+    "supplierVatNumber": null,
+    "customerName": "Bluebell Engineering Ltd",
+    "currency": "USD",
+    "subtotal": 37513.91,
+    "taxAmount": 7502.78,
+    "total": 45016.69,
+    "lineItems": [
+      {
+        "description": "Network switch installation",
+        "quantity": 17,
+        "unitPrice": 807.81,
+        "amount": 13732.77
+      },
+      {
+        "description": "Software licence (annual)",
+        "quantity": 19,
+        "unitPrice": 524.14,
+        "amount": 9958.66
+      },
+      {
+        "description": "Office cleaning - monthly",
+        "quantity": 14,
+        "unitPrice": 207.53,
+        "amount": 2905.42
+      },
+      {
+        "description": "Temporary staff hours",
+        "quantity": 11,
+        "unitPrice": 693.70,
+        "amount": 7630.70
+      },
+      {
+        "description": "Consultancy day rate",
+        "quantity": 4,
+        "unitPrice": 821.59,
+        "amount": 3286.36
+      }
+    ]
+  }
+}

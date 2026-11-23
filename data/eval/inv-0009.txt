@@ -1,0 +1,22 @@
+Larkspur Facilities Ltd
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+
+INVOICE
+
+Invoice No: INV-2026-0009
+Invoice Date: 05/01/2026
+Due Date: 04/02/2026
+
+Bill To:
+Larkspur Facilities LLP
+1 King Street, Manchester M2 6AZ
+
+Description                            Qty    Unit Price        Amount
+------------------------------------------------------------------------
+Equipment hire                          17       £276.79     £4,705.43
+------------------------------------------------------------------------
+Subtotal: £4,705.43
+VAT (20%): £941.09
+Total Due: £5,646.52
+
+Payment by BACS within terms. Thank you for your business.

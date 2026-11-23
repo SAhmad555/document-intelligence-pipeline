@@ -1,0 +1,48 @@
+{
+  "template": "classic",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0053",
+    "invoiceDate": "2026-04-30",
+    "dueDate": "2026-05-14",
+    "supplierName": "Larkspur Catering Limited",
+    "supplierVatNumber": null,
+    "customerName": "Northwind IT Solutions Ltd",
+    "currency": "EUR",
+    "subtotal": 32036.87,
+    "taxAmount": 6407.37,
+    "total": 38444.24,
+    "lineItems": [
+      {
+        "description": "Equipment hire",
+        "quantity": 8,
+        "unitPrice": 517.15,
+        "amount": 4137.20
+      },
+      {
+        "description": "Payroll processing fee",
+        "quantity": 20,
+        "unitPrice": 645.64,
+        "amount": 12912.80
+      },
+      {
+        "description": "On-site support hours",
+        "quantity": 17,
+        "unitPrice": 629.36,
+        "amount": 10699.12
+      },
+      {
+        "description": "Payroll processing fee",
+        "quantity": 7,
+        "unitPrice": 488.77,
+        "amount": 3421.39
+      },
+      {
+        "description": "Office cleaning - monthly",
+        "quantity": 4,
+        "unitPrice": 216.59,
+        "amount": 866.36
+      }
+    ]
+  }
+}

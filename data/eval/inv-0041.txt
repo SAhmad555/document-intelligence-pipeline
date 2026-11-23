@@ -1,0 +1,27 @@
+Northwind Analytics Ltd
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+VAT Reg No: GB 689 4105 18
+
+INVOICE
+
+Invoice No: A-10287
+Invoice Date: 08/03/2026
+Due Date: 07/04/2026
+
+Bill To:
+Meridian Facilities LLP
+1 King Street, Manchester M2 6AZ
+
+Description                            Qty    Unit Price        Amount
+------------------------------------------------------------------------
+Network switch installation              2       £152.27       £304.54
+Consultancy day rate                    12       £539.89     £6,478.68
+Temporary staff hours                    3       £294.45       £883.35
+Pallet storage (per week)              7.5       £141.39     £1,060.42
+Catering - staff lunch                  13       £453.83     £5,899.79
+------------------------------------------------------------------------
+Subtotal: £14,626.78
+VAT (20%): £2,925.36
+Total Due: £17,552.14
+
+Payment by BACS within terms. Thank you for your business.

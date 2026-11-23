@@ -1,0 +1,24 @@
+{
+  "template": "ocr-noisy",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "A-10224",
+    "invoiceDate": "2026-07-19",
+    "dueDate": "2026-08-18",
+    "supplierName": "Larkspur Engineering Ltd",
+    "supplierVatNumber": "GB852688721",
+    "customerName": "Bluebell Recruitment Ltd",
+    "currency": "GBP",
+    "subtotal": 3669.40,
+    "taxAmount": 0.00,
+    "total": 3669.40,
+    "lineItems": [
+      {
+        "description": "Pallet storage (per week)",
+        "quantity": 5,
+        "unitPrice": 733.88,
+        "amount": 3669.40
+      }
+    ]
+  }
+}

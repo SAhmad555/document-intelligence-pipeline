@@ -1,0 +1,30 @@
+{
+  "template": "modern",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "7078/B",
+    "invoiceDate": "2026-03-19",
+    "dueDate": "2026-05-03",
+    "supplierName": "Meridian Print Works Ltd",
+    "supplierVatNumber": null,
+    "customerName": "Harbour Facilities Limited",
+    "currency": "USD",
+    "subtotal": 4891.39,
+    "taxAmount": 0.00,
+    "total": 4891.39,
+    "lineItems": [
+      {
+        "description": "Courier delivery",
+        "quantity": 5,
+        "unitPrice": 887.93,
+        "amount": 4439.65
+      },
+      {
+        "description": "Courier delivery",
+        "quantity": 6,
+        "unitPrice": 75.29,
+        "amount": 451.74
+      }
+    ]
+  }
+}

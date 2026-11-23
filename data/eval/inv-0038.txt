@@ -1,0 +1,17 @@
+# Tax Invoice
+
+Inv # SI000038
+Issue date: 2026-02-24
+Supplier: Pennine Print Works Ltd
+Tax ID: GB814997227
+Customer: Granite Consulting Ltd
+
+| Item | Qty | Unit | Line total |
+|---|---|---|---|
+| Pallet storage (per week) | 7.5 | GBP 886.42 | GBP 6,648.15 |
+| Courier delivery | 20 | GBP 482.33 | GBP 9,646.60 |
+| Software licence (annual) | 2 | GBP 625.73 | GBP 1,251.46 |
+
+Net total: GBP 17,546.21
+Tax @ 20%: GBP 3,509.24
+Amount due: GBP 21,055.45

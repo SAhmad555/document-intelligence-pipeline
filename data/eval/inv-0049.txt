@@ -1,0 +1,26 @@
+Pennine Print Works Limited
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+
+INVOICE
+
+Invoice No: INV-2026-0049
+Invoice Date: 07/03/2026
+Due Date: 21/03/2026
+
+Bill To:
+Northwind Analytics Ltd
+1 King Street, Manchester M2 6AZ
+
+Description                            Qty    Unit Price        Amount
+------------------------------------------------------------------------
+Office cleaning - monthly                5       €573.24     €2,866.20
+Office cleaning - monthly                3       €120.44       €361.32
+Network switch installation            7.5       €142.26     €1,066.95
+On-site support hours                    7       €316.54     €2,215.78
+Payroll processing fee                  10       €205.33     €2,053.30
+------------------------------------------------------------------------
+Subtotal: €8,563.55
+VAT (0%): €0.00
+Total Due: €8,563.55
+
+Payment by BACS within terms. Thank you for your business.

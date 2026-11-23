@@ -1,0 +1,20 @@
+# Tax Invoice
+
+Inv # A-10462
+Issue date: 2026-02-15
+Payment due: 2026-03-17
+Supplier: Meridian Logistics LLP
+Tax ID: IE7422665W
+Customer: Northwind IT Solutions Ltd
+
+| Item | Qty | Unit | Line total |
+|---|---|---|---|
+| Catering - staff lunch | 6 | EUR 213.37 | EUR 1,280.22 |
+| Software licence (annual) | 13 | EUR 51.75 | EUR 672.75 |
+| Consultancy day rate | 7 | EUR 596.27 | EUR 4,173.89 |
+| Network switch installation | 16 | EUR 668.08 | EUR 10,689.28 |
+| Payroll processing fee | 10 | EUR 659.81 | EUR 6,598.10 |
+
+Net total: EUR 23,414.24
+Tax @ 20%: EUR 4,682.85
+Amount due: EUR 28,097.09

@@ -1,0 +1,30 @@
+{
+  "template": "ocr-noisy",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "A-10028",
+    "invoiceDate": "2026-07-31",
+    "dueDate": "2026-08-30",
+    "supplierName": "Silverline Analytics Ltd",
+    "supplierVatNumber": "GB603902202",
+    "customerName": "Bluebell Print Works Limited",
+    "currency": "GBP",
+    "subtotal": 10345.18,
+    "taxAmount": 2069.04,
+    "total": 12414.22,
+    "lineItems": [
+      {
+        "description": "On-site support hours",
+        "quantity": 3,
+        "unitPrice": 136.22,
+        "amount": 408.66
+      },
+      {
+        "description": "Payroll processing fee",
+        "quantity": 11,
+        "unitPrice": 903.32,
+        "amount": 9936.52
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "template": "email",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "A-10189",
+    "invoiceDate": "2026-06-15",
+    "dueDate": "2026-06-29",
+    "supplierName": "Pennine Cleaning Services Ltd",
+    "supplierVatNumber": "GB370408852",
+    "customerName": "Larkspur Analytics Limited",
+    "currency": "GBP",
+    "subtotal": 23618.39,
+    "taxAmount": 4723.68,
+    "total": 28342.07,
+    "lineItems": [
+      {
+        "description": "Courier delivery",
+        "quantity": 13,
+        "unitPrice": 390.54,
+        "amount": 5077.02
+      },
+      {
+        "description": "Consultancy day rate",
+        "quantity": 18,
+        "unitPrice": 628.48,
+        "amount": 11312.64
+      },
+      {
+        "description": "Courier delivery",
+        "quantity": 3,
+        "unitPrice": 728.21,
+        "amount": 2184.63
+      },
+      {
+        "description": "Payroll processing fee",
+        "quantity": 15,
+        "unitPrice": 148.69,
+        "amount": 2230.35
+      },
+      {
+        "description": "Courier delivery",
+        "quantity": 5,
+        "unitPrice": 562.75,
+        "amount": 2813.75
+      }
+    ]
+  }
+}

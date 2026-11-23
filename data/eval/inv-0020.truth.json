@@ -1,0 +1,36 @@
+{
+  "template": "ocr-noisy",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0020",
+    "invoiceDate": "2026-10-06",
+    "dueDate": "2026-11-05",
+    "supplierName": "Larkspur Catering LLP",
+    "supplierVatNumber": null,
+    "customerName": "Pennine Print Works LLP",
+    "currency": "GBP",
+    "subtotal": 12724.27,
+    "taxAmount": 2544.85,
+    "total": 15269.12,
+    "lineItems": [
+      {
+        "description": "Network switch installation",
+        "quantity": 12,
+        "unitPrice": 189.42,
+        "amount": 2273.04
+      },
+      {
+        "description": "Courier delivery",
+        "quantity": 4,
+        "unitPrice": 347.77,
+        "amount": 1391.08
+      },
+      {
+        "description": "Consultancy day rate",
+        "quantity": 15,
+        "unitPrice": 604.01,
+        "amount": 9060.15
+      }
+    ]
+  }
+}

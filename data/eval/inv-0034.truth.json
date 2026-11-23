@@ -1,0 +1,30 @@
+{
+  "template": "modern",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "A-10238",
+    "invoiceDate": "2026-08-14",
+    "dueDate": "2026-09-13",
+    "supplierName": "Silverline Engineering Ltd",
+    "supplierVatNumber": null,
+    "customerName": "Granite Cleaning Services Ltd",
+    "currency": "GBP",
+    "subtotal": 14605.69,
+    "taxAmount": 2921.14,
+    "total": 17526.83,
+    "lineItems": [
+      {
+        "description": "Printed brochures (A4, 500)",
+        "quantity": 11,
+        "unitPrice": 343.03,
+        "amount": 3773.33
+      },
+      {
+        "description": "Equipment hire",
+        "quantity": 14,
+        "unitPrice": 773.74,
+        "amount": 10832.36
+      }
+    ]
+  }
+}

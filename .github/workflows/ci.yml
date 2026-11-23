@@ -1,0 +1,95 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      claude_eval:
+        description: Also run the Claude eval (uses the ANTHROPIC_API_KEY secret and costs money)
+        type: boolean
+        default: false
+      claude_limit:
+        description: Number of documents for the Claude eval
+        default: '20'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  DOTNET_VERSION: '10.0.x'
+  DOTNET_NOLOGO: true
+  DOTNET_CLI_TELEMETRY_OPTOUT: true
+
+jobs:
+  build-test:
+    name: Build & test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: ${{ env.DOTNET_VERSION }}
+
+      - run: dotnet restore DocIntel.slnx
+      - name: Build (warnings are errors)
+        run: dotnet build DocIntel.slnx -c Release --no-restore
+      - name: Test with coverage
+        run: dotnet test DocIntel.slnx -c Release --no-build --logger trx --collect "XPlat Code Coverage" --results-directory ./TestResults
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: test-results
+          path: TestResults
+
+  eval-baseline:
+    name: Eval gate (rule-based baseline)
+    runs-on: ubuntu-latest
+    needs: build-test
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: ${{ env.DOTNET_VERSION }}
+
+      # Fails the build if extraction accuracy regresses below the agreed floor.
+      - name: Run evaluation
+        run: dotnet run --project src/DocIntel.Eval -c Release -- run --data data/eval --extractor rule-based --out reports --min-f1 0.78
+      - name: Publish report to job summary
+        if: always()
+        run: cat reports/eval-rule-based.md >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: eval-rule-based
+          path: reports
+
+  eval-claude:
+    name: Eval (Claude)
+    runs-on: ubuntu-latest
+    needs: build-test
+    if: github.event_name == 'workflow_dispatch' && inputs.claude_eval
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: ${{ env.DOTNET_VERSION }}
+
+      - name: Run evaluation
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: dotnet run --project src/DocIntel.Eval -c Release -- run --data data/eval --extractor claude --limit ${{ inputs.claude_limit }} --out reports
+      - name: Publish report to job summary
+        if: always()
+        run: cat reports/eval-claude.md >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: eval-claude
+          path: reports

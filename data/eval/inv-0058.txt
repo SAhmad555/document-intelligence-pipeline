@@ -1,0 +1,18 @@
+# Tax Invoice
+
+Inv # 7058/B
+Issue date: 2026-02-06
+Payment due: 2026-03-08
+Supplier: Northwind IT Solutions Ltd
+Tax ID: GB579485040
+Customer: Silverline Print Works LLP
+
+| Item | Qty | Unit | Line total |
+|---|---|---|---|
+| Consultancy day rate | 18 | GBP 845.37 | GBP 15,216.66 |
+| Office cleaning - monthly | 17 | GBP 259.08 | GBP 4,404.36 |
+| Printed brochures (A4, 500) | 2 | GBP 429.89 | GBP 859.78 |
+
+Net total: GBP 20,480.80
+Tax @ 20%: GBP 4,096.16
+Amount due: GBP 24,576.96

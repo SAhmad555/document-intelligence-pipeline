@@ -1,0 +1,48 @@
+{
+  "template": "modern",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "A-10294",
+    "invoiceDate": "2026-02-19",
+    "dueDate": null,
+    "supplierName": "Bluebell Print Works Ltd",
+    "supplierVatNumber": null,
+    "customerName": "Granite Consulting LLP",
+    "currency": "USD",
+    "subtotal": 20434.76,
+    "taxAmount": 0.00,
+    "total": 20434.76,
+    "lineItems": [
+      {
+        "description": "Office cleaning - monthly",
+        "quantity": 14,
+        "unitPrice": 124.99,
+        "amount": 1749.86
+      },
+      {
+        "description": "Catering - staff lunch",
+        "quantity": 18,
+        "unitPrice": 504.51,
+        "amount": 9081.18
+      },
+      {
+        "description": "Payroll processing fee",
+        "quantity": 1,
+        "unitPrice": 716.71,
+        "amount": 716.71
+      },
+      {
+        "description": "Equipment hire",
+        "quantity": 7,
+        "unitPrice": 914.15,
+        "amount": 6399.05
+      },
+      {
+        "description": "Software licence (annual)",
+        "quantity": 3,
+        "unitPrice": 829.32,
+        "amount": 2487.96
+      }
+    ]
+  }
+}

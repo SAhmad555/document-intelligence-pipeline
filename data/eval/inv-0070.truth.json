@@ -1,0 +1,42 @@
+{
+  "template": "modern",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "A-10490",
+    "invoiceDate": "2026-09-05",
+    "dueDate": null,
+    "supplierName": "Meridian Print Works LLP",
+    "supplierVatNumber": null,
+    "customerName": "Bluebell Recruitment LLP",
+    "currency": "GBP",
+    "subtotal": 28658.70,
+    "taxAmount": 1432.94,
+    "total": 30091.64,
+    "lineItems": [
+      {
+        "description": "Payroll processing fee",
+        "quantity": 7,
+        "unitPrice": 497.96,
+        "amount": 3485.72
+      },
+      {
+        "description": "Printed brochures (A4, 500)",
+        "quantity": 7.5,
+        "unitPrice": 587.77,
+        "amount": 4408.28
+      },
+      {
+        "description": "Consultancy day rate",
+        "quantity": 20,
+        "unitPrice": 730.88,
+        "amount": 14617.60
+      },
+      {
+        "description": "Payroll processing fee",
+        "quantity": 10,
+        "unitPrice": 614.71,
+        "amount": 6147.10
+      }
+    ]
+  }
+}

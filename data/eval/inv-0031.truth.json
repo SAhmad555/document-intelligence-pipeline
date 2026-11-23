@@ -1,0 +1,30 @@
+{
+  "template": "email",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "7031/B",
+    "invoiceDate": "2026-07-13",
+    "dueDate": "2026-08-27",
+    "supplierName": "Northwind Analytics Ltd",
+    "supplierVatNumber": null,
+    "customerName": null,
+    "currency": "GBP",
+    "subtotal": 18406.05,
+    "taxAmount": 3681.21,
+    "total": 22087.26,
+    "lineItems": [
+      {
+        "description": "On-site support hours",
+        "quantity": 20,
+        "unitPrice": 905.61,
+        "amount": 18112.20
+      },
+      {
+        "description": "Catering - staff lunch",
+        "quantity": 1,
+        "unitPrice": 293.85,
+        "amount": 293.85
+      }
+    ]
+  }
+}

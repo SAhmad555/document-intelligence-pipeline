@@ -1,0 +1,23 @@
+Oakridge Engineering Ltd
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+VAT Reg No: GB 626 8120 99
+
+INVOICE
+
+lnvoice N0: INV-2026-0044
+Invo ice Date : 19/06/2026
+Due Dale: 19/07/2026
+
+BilI To:
+Oakridge Analytics LLP
+1 King Street, Manchester M2 6AZ
+
+Description                                          Qty      Unit Price            Amount
+------------------------------------------------------------------------
+Office cleaning - monthly                        9          £899.73       £8,097.57
+------------------------------------------------------------------------
+Sub tota1: £8,097.57
+VAT   (20%): £1,619.51
+T0tal Due: £9,717.08
+
+Payment by BACS within terms. Thank you for your business.

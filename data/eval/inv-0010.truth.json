@@ -1,0 +1,30 @@
+{
+  "template": "modern",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "A-10070",
+    "invoiceDate": "2026-07-13",
+    "dueDate": "2026-08-12",
+    "supplierName": "Copperfield Catering Ltd",
+    "supplierVatNumber": "IE3586357W",
+    "customerName": null,
+    "currency": "EUR",
+    "subtotal": 9591.48,
+    "taxAmount": 0.00,
+    "total": 9591.48,
+    "lineItems": [
+      {
+        "description": "On-site support hours",
+        "quantity": 9,
+        "unitPrice": 400.68,
+        "amount": 3606.12
+      },
+      {
+        "description": "Network switch installation",
+        "quantity": 12,
+        "unitPrice": 498.78,
+        "amount": 5985.36
+      }
+    ]
+  }
+}

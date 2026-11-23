@@ -1,0 +1,20 @@
+# Tax Invoice
+
+Inv # A-10042
+Issue date: 2026-03-27
+Payment due: 2026-04-26
+Supplier: Meridian Recruitment Ltd
+Tax ID: GB286122860
+Customer: Copperfield Consulting Ltd
+
+| Item | Qty | Unit | Line total |
+|---|---|---|---|
+| Consultancy day rate | 3 | GBP 111.60 | GBP 334.80 |
+| Pallet storage (per week) | 19 | GBP 663.09 | GBP 12,598.71 |
+| Temporary staff hours | 9 | GBP 127.45 | GBP 1,147.05 |
+| Pallet storage (per week) | 18 | GBP 170.37 | GBP 3,066.66 |
+| Payroll processing fee | 13 | GBP 863.19 | GBP 11,221.47 |
+
+Net total: GBP 28,368.69
+Tax @ 20%: GBP 5,673.74
+Amount due: GBP 34,042.43

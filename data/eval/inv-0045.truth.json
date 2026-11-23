@@ -1,0 +1,30 @@
+{
+  "template": "classic",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0045",
+    "invoiceDate": "2026-10-13",
+    "dueDate": "2026-11-12",
+    "supplierName": "Copperfield Logistics Limited",
+    "supplierVatNumber": null,
+    "customerName": "Harbour Consulting Limited",
+    "currency": "EUR",
+    "subtotal": 17085.90,
+    "taxAmount": 3417.18,
+    "total": 20503.08,
+    "lineItems": [
+      {
+        "description": "Pallet storage (per week)",
+        "quantity": 15,
+        "unitPrice": 794.10,
+        "amount": 11911.50
+      },
+      {
+        "description": "Software licence (annual)",
+        "quantity": 7.5,
+        "unitPrice": 689.92,
+        "amount": 5174.40
+      }
+    ]
+  }
+}

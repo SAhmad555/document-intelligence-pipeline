@@ -1,0 +1,24 @@
+{
+  "template": "email",
+  "hasArithmeticError": true,
+  "truth": {
+    "invoiceNumber": "INV-2026-0079",
+    "invoiceDate": "2026-03-02",
+    "dueDate": "2026-04-01",
+    "supplierName": "Kestrel Analytics LLP",
+    "supplierVatNumber": "GB020206170",
+    "customerName": "Copperfield Analytics Ltd",
+    "currency": "GBP",
+    "subtotal": 11860.40,
+    "taxAmount": 2372.08,
+    "total": 14332.48,
+    "lineItems": [
+      {
+        "description": "Printed brochures (A4, 500)",
+        "quantity": 20,
+        "unitPrice": 593.02,
+        "amount": 11860.40
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "template": "modern",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "7058/B",
+    "invoiceDate": "2026-02-06",
+    "dueDate": "2026-03-08",
+    "supplierName": "Northwind IT Solutions Ltd",
+    "supplierVatNumber": "GB579485040",
+    "customerName": "Silverline Print Works LLP",
+    "currency": "GBP",
+    "subtotal": 20480.80,
+    "taxAmount": 4096.16,
+    "total": 24576.96,
+    "lineItems": [
+      {
+        "description": "Consultancy day rate",
+        "quantity": 18,
+        "unitPrice": 845.37,
+        "amount": 15216.66
+      },
+      {
+        "description": "Office cleaning - monthly",
+        "quantity": 17,
+        "unitPrice": 259.08,
+        "amount": 4404.36
+      },
+      {
+        "description": "Printed brochures (A4, 500)",
+        "quantity": 2,
+        "unitPrice": 429.89,
+        "amount": 859.78
+      }
+    ]
+  }
+}

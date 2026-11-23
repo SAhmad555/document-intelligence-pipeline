@@ -1,0 +1,18 @@
+# Tax Invoice
+
+Inv # A-10294
+Issue date: 2026-02-19
+Supplier: Bluebell Print Works Ltd
+Customer: Granite Consulting LLP
+
+| Item | Qty | Unit | Line total |
+|---|---|---|---|
+| Office cleaning - monthly | 14 | USD 124.99 | USD 1,749.86 |
+| Catering - staff lunch | 18 | USD 504.51 | USD 9,081.18 |
+| Payroll processing fee | 1 | USD 716.71 | USD 716.71 |
+| Equipment hire | 7 | USD 914.15 | USD 6,399.05 |
+| Software licence (annual) | 3 | USD 829.32 | USD 2,487.96 |
+
+Net total: USD 20,434.76
+Tax @ 0%: USD 0.00
+Amount due: USD 20,434.76

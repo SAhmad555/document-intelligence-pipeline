@@ -1,0 +1,42 @@
+{
+  "template": "ocr-noisy",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0080",
+    "invoiceDate": "2026-04-10",
+    "dueDate": "2026-04-24",
+    "supplierName": "Northwind Analytics LLP",
+    "supplierVatNumber": "GB062489355",
+    "customerName": "Meridian Facilities Ltd",
+    "currency": "GBP",
+    "subtotal": 30002.74,
+    "taxAmount": 6000.55,
+    "total": 36003.29,
+    "lineItems": [
+      {
+        "description": "Consultancy day rate",
+        "quantity": 19,
+        "unitPrice": 900.70,
+        "amount": 17113.30
+      },
+      {
+        "description": "Payroll processing fee",
+        "quantity": 10,
+        "unitPrice": 849.30,
+        "amount": 8493.00
+      },
+      {
+        "description": "Office cleaning - monthly",
+        "quantity": 7.5,
+        "unitPrice": 574.56,
+        "amount": 4309.20
+      },
+      {
+        "description": "Catering - staff lunch",
+        "quantity": 2,
+        "unitPrice": 43.62,
+        "amount": 87.24
+      }
+    ]
+  }
+}

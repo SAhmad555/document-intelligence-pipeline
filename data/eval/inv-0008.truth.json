@@ -1,0 +1,42 @@
+{
+  "template": "ocr-noisy",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "7008/B",
+    "invoiceDate": "2026-09-20",
+    "dueDate": null,
+    "supplierName": "Northwind Print Works LLP",
+    "supplierVatNumber": "GB508466929",
+    "customerName": null,
+    "currency": "GBP",
+    "subtotal": 22475.00,
+    "taxAmount": 4495.00,
+    "total": 26970.00,
+    "lineItems": [
+      {
+        "description": "Temporary staff hours",
+        "quantity": 20,
+        "unitPrice": 335.15,
+        "amount": 6703.00
+      },
+      {
+        "description": "Catering - staff lunch",
+        "quantity": 4,
+        "unitPrice": 859.26,
+        "amount": 3437.04
+      },
+      {
+        "description": "Consultancy day rate",
+        "quantity": 8,
+        "unitPrice": 875.51,
+        "amount": 7004.08
+      },
+      {
+        "description": "Equipment hire",
+        "quantity": 18,
+        "unitPrice": 296.16,
+        "amount": 5330.88
+      }
+    ]
+  }
+}

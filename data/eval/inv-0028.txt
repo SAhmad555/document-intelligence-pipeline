@@ -1,0 +1,24 @@
+Thistle Facilities Ltd
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+VAT Reg No: IE5016673W
+
+INVOICE
+
+lnvoice N0: SI000028
+Invo ice Date : 02/02/2026
+Due Dale: 19/03/2026
+
+Bill To:
+Bluebell Recruitment Ltd
+1 King Street, Manchester M2 6AZ
+
+Description                                          Qty      Unit Price            Amount
+------------------------------------------------------------------------
+Printed brochures (A4, 500)                     6            €78.27          €469.62
+Payroll processing fee                            5          €338.12       €1,690.60
+------------------------------------------------------------------------
+Subtotal: €2,160.22
+VAT   (0%): €0.00
+T0tal Due: €2,160.22
+
+Payment by BACS within terms. Thank you for your business.

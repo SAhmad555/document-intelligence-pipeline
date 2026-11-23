@@ -1,0 +1,42 @@
+{
+  "template": "classic",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "A-10119",
+    "invoiceDate": "2026-07-12",
+    "dueDate": "2026-08-11",
+    "supplierName": "Granite Recruitment LLP",
+    "supplierVatNumber": null,
+    "customerName": "Silverline Catering Ltd",
+    "currency": "GBP",
+    "subtotal": 4379.20,
+    "taxAmount": 875.84,
+    "total": 5255.04,
+    "lineItems": [
+      {
+        "description": "Printed brochures (A4, 500)",
+        "quantity": 18,
+        "unitPrice": 54.42,
+        "amount": 979.56
+      },
+      {
+        "description": "Software licence (annual)",
+        "quantity": 18,
+        "unitPrice": 83.94,
+        "amount": 1510.92
+      },
+      {
+        "description": "Office cleaning - monthly",
+        "quantity": 6,
+        "unitPrice": 126.25,
+        "amount": 757.50
+      },
+      {
+        "description": "On-site support hours",
+        "quantity": 7.5,
+        "unitPrice": 150.83,
+        "amount": 1131.22
+      }
+    ]
+  }
+}

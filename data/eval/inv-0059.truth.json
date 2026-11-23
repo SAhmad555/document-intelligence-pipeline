@@ -1,0 +1,48 @@
+{
+  "template": "email",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0059",
+    "invoiceDate": "2026-04-21",
+    "dueDate": "2026-05-21",
+    "supplierName": "Northwind Logistics LLP",
+    "supplierVatNumber": null,
+    "customerName": "Pennine Analytics Ltd",
+    "currency": "USD",
+    "subtotal": 29271.91,
+    "taxAmount": 5854.38,
+    "total": 35126.29,
+    "lineItems": [
+      {
+        "description": "Temporary staff hours",
+        "quantity": 7.5,
+        "unitPrice": 335.19,
+        "amount": 2513.92
+      },
+      {
+        "description": "Equipment hire",
+        "quantity": 6,
+        "unitPrice": 785.23,
+        "amount": 4711.38
+      },
+      {
+        "description": "On-site support hours",
+        "quantity": 7.5,
+        "unitPrice": 501.74,
+        "amount": 3763.05
+      },
+      {
+        "description": "Temporary staff hours",
+        "quantity": 15,
+        "unitPrice": 830.64,
+        "amount": 12459.60
+      },
+      {
+        "description": "Equipment hire",
+        "quantity": 12,
+        "unitPrice": 485.33,
+        "amount": 5823.96
+      }
+    ]
+  }
+}

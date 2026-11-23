@@ -1,0 +1,24 @@
+{
+  "template": "classic",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0009",
+    "invoiceDate": "2026-01-05",
+    "dueDate": "2026-02-04",
+    "supplierName": "Larkspur Facilities Ltd",
+    "supplierVatNumber": null,
+    "customerName": "Larkspur Facilities LLP",
+    "currency": "GBP",
+    "subtotal": 4705.43,
+    "taxAmount": 941.09,
+    "total": 5646.52,
+    "lineItems": [
+      {
+        "description": "Equipment hire",
+        "quantity": 17,
+        "unitPrice": 276.79,
+        "amount": 4705.43
+      }
+    ]
+  }
+}

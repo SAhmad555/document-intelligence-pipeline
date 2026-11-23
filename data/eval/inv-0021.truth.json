@@ -1,0 +1,24 @@
+{
+  "template": "classic",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "SI000021",
+    "invoiceDate": "2026-09-25",
+    "dueDate": "2026-11-09",
+    "supplierName": "Meridian Analytics Ltd",
+    "supplierVatNumber": "GB824408796",
+    "customerName": "Meridian Catering Limited",
+    "currency": "GBP",
+    "subtotal": 216.00,
+    "taxAmount": 43.20,
+    "total": 259.20,
+    "lineItems": [
+      {
+        "description": "Temporary staff hours",
+        "quantity": 2,
+        "unitPrice": 108.00,
+        "amount": 216.00
+      }
+    ]
+  }
+}

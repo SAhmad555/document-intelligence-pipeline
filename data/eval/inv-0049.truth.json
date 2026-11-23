@@ -1,0 +1,48 @@
+{
+  "template": "classic",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0049",
+    "invoiceDate": "2026-03-07",
+    "dueDate": "2026-03-21",
+    "supplierName": "Pennine Print Works Limited",
+    "supplierVatNumber": null,
+    "customerName": "Northwind Analytics Ltd",
+    "currency": "EUR",
+    "subtotal": 8563.55,
+    "taxAmount": 0.00,
+    "total": 8563.55,
+    "lineItems": [
+      {
+        "description": "Office cleaning - monthly",
+        "quantity": 5,
+        "unitPrice": 573.24,
+        "amount": 2866.20
+      },
+      {
+        "description": "Office cleaning - monthly",
+        "quantity": 3,
+        "unitPrice": 120.44,
+        "amount": 361.32
+      },
+      {
+        "description": "Network switch installation",
+        "quantity": 7.5,
+        "unitPrice": 142.26,
+        "amount": 1066.95
+      },
+      {
+        "description": "On-site support hours",
+        "quantity": 7,
+        "unitPrice": 316.54,
+        "amount": 2215.78
+      },
+      {
+        "description": "Payroll processing fee",
+        "quantity": 10,
+        "unitPrice": 205.33,
+        "amount": 2053.30
+      }
+    ]
+  }
+}

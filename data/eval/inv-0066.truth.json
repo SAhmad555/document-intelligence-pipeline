@@ -1,0 +1,48 @@
+{
+  "template": "modern",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "A-10462",
+    "invoiceDate": "2026-02-15",
+    "dueDate": "2026-03-17",
+    "supplierName": "Meridian Logistics LLP",
+    "supplierVatNumber": "IE7422665W",
+    "customerName": "Northwind IT Solutions Ltd",
+    "currency": "EUR",
+    "subtotal": 23414.24,
+    "taxAmount": 4682.85,
+    "total": 28097.09,
+    "lineItems": [
+      {
+        "description": "Catering - staff lunch",
+        "quantity": 6,
+        "unitPrice": 213.37,
+        "amount": 1280.22
+      },
+      {
+        "description": "Software licence (annual)",
+        "quantity": 13,
+        "unitPrice": 51.75,
+        "amount": 672.75
+      },
+      {
+        "description": "Consultancy day rate",
+        "quantity": 7,
+        "unitPrice": 596.27,
+        "amount": 4173.89
+      },
+      {
+        "description": "Network switch installation",
+        "quantity": 16,
+        "unitPrice": 668.08,
+        "amount": 10689.28
+      },
+      {
+        "description": "Payroll processing fee",
+        "quantity": 10,
+        "unitPrice": 659.81,
+        "amount": 6598.10
+      }
+    ]
+  }
+}

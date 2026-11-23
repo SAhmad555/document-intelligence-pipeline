@@ -1,0 +1,36 @@
+{
+  "template": "classic",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0029",
+    "invoiceDate": "2026-09-17",
+    "dueDate": "2026-10-17",
+    "supplierName": "Thistle Engineering Ltd",
+    "supplierVatNumber": null,
+    "customerName": "Pennine IT Solutions Ltd",
+    "currency": "EUR",
+    "subtotal": 17512.14,
+    "taxAmount": 0.00,
+    "total": 17512.14,
+    "lineItems": [
+      {
+        "description": "Office cleaning - monthly",
+        "quantity": 10,
+        "unitPrice": 68.99,
+        "amount": 689.90
+      },
+      {
+        "description": "Pallet storage (per week)",
+        "quantity": 20,
+        "unitPrice": 689.10,
+        "amount": 13782.00
+      },
+      {
+        "description": "Courier delivery",
+        "quantity": 7,
+        "unitPrice": 434.32,
+        "amount": 3040.24
+      }
+    ]
+  }
+}

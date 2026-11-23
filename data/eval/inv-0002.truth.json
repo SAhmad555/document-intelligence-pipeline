@@ -1,0 +1,48 @@
+{
+  "template": "modern",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0002",
+    "invoiceDate": "2026-07-11",
+    "dueDate": null,
+    "supplierName": "Oakridge Logistics Ltd",
+    "supplierVatNumber": "IE6504762W",
+    "customerName": "Northwind Consulting Ltd",
+    "currency": "EUR",
+    "subtotal": 23543.29,
+    "taxAmount": 4708.66,
+    "total": 28251.95,
+    "lineItems": [
+      {
+        "description": "Consultancy day rate",
+        "quantity": 11,
+        "unitPrice": 182.74,
+        "amount": 2010.14
+      },
+      {
+        "description": "Consultancy day rate",
+        "quantity": 12,
+        "unitPrice": 753.96,
+        "amount": 9047.52
+      },
+      {
+        "description": "Pallet storage (per week)",
+        "quantity": 17,
+        "unitPrice": 688.52,
+        "amount": 11704.84
+      },
+      {
+        "description": "Payroll processing fee",
+        "quantity": 1,
+        "unitPrice": 60.91,
+        "amount": 60.91
+      },
+      {
+        "description": "Payroll processing fee",
+        "quantity": 3,
+        "unitPrice": 239.96,
+        "amount": 719.88
+      }
+    ]
+  }
+}

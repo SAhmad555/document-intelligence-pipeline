@@ -1,0 +1,19 @@
+# Tax Invoice
+
+Inv # INV-2026-0026
+Issue date: 2026-04-17
+Supplier: Copperfield Cleaning Services Ltd
+Tax ID: GB104847559
+Customer: Granite Facilities LLP
+
+| Item | Qty | Unit | Line total |
+|---|---|---|---|
+| Temporary staff hours | 8 | GBP 294.16 | GBP 2,353.28 |
+| On-site support hours | 2 | GBP 54.95 | GBP 109.90 |
+| On-site support hours | 2 | GBP 651.43 | GBP 1,302.86 |
+| Network switch installation | 20 | GBP 495.63 | GBP 9,912.60 |
+| Courier delivery | 7.5 | GBP 200.15 | GBP 1,501.12 |
+
+Net total: GBP 15,179.76
+Tax @ 20%: GBP 3,035.95
+Amount due: GBP 18,215.71

@@ -1,0 +1,26 @@
+Larkspur Catering Limited
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+
+INVOICE
+
+Invoice No: INV-2026-0053
+Invoice Date: 30/04/2026
+Due Date: 14/05/2026
+
+Bill To:
+Northwind IT Solutions Ltd
+1 King Street, Manchester M2 6AZ
+
+Description                            Qty    Unit Price        Amount
+------------------------------------------------------------------------
+Equipment hire                           8       €517.15     €4,137.20
+Payroll processing fee                  20       €645.64    €12,912.80
+On-site support hours                   17       €629.36    €10,699.12
+Payroll processing fee                   7       €488.77     €3,421.39
+Office cleaning - monthly                4       €216.59       €866.36
+------------------------------------------------------------------------
+Subtotal: €32,036.87
+VAT (20%): €6,407.37
+Total Due: €38,444.24
+
+Payment by BACS within terms. Thank you for your business.

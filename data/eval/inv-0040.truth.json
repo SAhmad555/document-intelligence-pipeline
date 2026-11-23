@@ -1,0 +1,24 @@
+{
+  "template": "ocr-noisy",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0040",
+    "invoiceDate": "2026-01-27",
+    "dueDate": "2026-03-13",
+    "supplierName": "Copperfield Catering LLP",
+    "supplierVatNumber": "GB792648520",
+    "customerName": "Copperfield Engineering Ltd",
+    "currency": "GBP",
+    "subtotal": 723.70,
+    "taxAmount": 144.74,
+    "total": 868.44,
+    "lineItems": [
+      {
+        "description": "Pallet storage (per week)",
+        "quantity": 5,
+        "unitPrice": 144.74,
+        "amount": 723.70
+      }
+    ]
+  }
+}

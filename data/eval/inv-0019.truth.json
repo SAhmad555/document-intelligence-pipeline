@@ -1,0 +1,48 @@
+{
+  "template": "email",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0019",
+    "invoiceDate": "2026-05-26",
+    "dueDate": "2026-07-10",
+    "supplierName": "Meridian IT Solutions Limited",
+    "supplierVatNumber": "GB668001346",
+    "customerName": "Meridian Analytics Ltd",
+    "currency": "GBP",
+    "subtotal": 13028.68,
+    "taxAmount": 2605.74,
+    "total": 15634.42,
+    "lineItems": [
+      {
+        "description": "Pallet storage (per week)",
+        "quantity": 5,
+        "unitPrice": 389.08,
+        "amount": 1945.40
+      },
+      {
+        "description": "Network switch installation",
+        "quantity": 7.5,
+        "unitPrice": 174.85,
+        "amount": 1311.38
+      },
+      {
+        "description": "On-site support hours",
+        "quantity": 1,
+        "unitPrice": 343.72,
+        "amount": 343.72
+      },
+      {
+        "description": "Consultancy day rate",
+        "quantity": 9,
+        "unitPrice": 846.00,
+        "amount": 7614.00
+      },
+      {
+        "description": "Consultancy day rate",
+        "quantity": 7.5,
+        "unitPrice": 241.89,
+        "amount": 1814.18
+      }
+    ]
+  }
+}

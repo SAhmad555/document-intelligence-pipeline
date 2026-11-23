@@ -1,0 +1,22 @@
+Meridian Logistics Ltd
+Unit 4, Riverside Business Park, Leeds LS1 4AB
+
+INVOICE
+
+Invoice No: A-10231
+Invoice Date: 20/05/2026
+Due Date: 04/07/2026
+
+Bill To:
+Thistle Cleaning Services Limited
+1 King Street, Manchester M2 6AZ
+
+Description                            Qty    Unit Price        Amount
+------------------------------------------------------------------------
+Payroll processing fee                   4       €317.70     €1,270.80
+------------------------------------------------------------------------
+Subtotal: €1,270.80
+VAT (0%): €0.00
+Total Due: €1,270.80
+
+Payment by BACS within terms. Thank you for your business.

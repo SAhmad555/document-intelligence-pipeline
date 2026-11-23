@@ -1,0 +1,30 @@
+{
+  "template": "modern",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0046",
+    "invoiceDate": "2026-01-17",
+    "dueDate": "2026-02-16",
+    "supplierName": "Larkspur IT Solutions Ltd",
+    "supplierVatNumber": "IE2092090W",
+    "customerName": "Northwind Engineering Limited",
+    "currency": "EUR",
+    "subtotal": 7175.54,
+    "taxAmount": 1435.11,
+    "total": 8610.65,
+    "lineItems": [
+      {
+        "description": "Printed brochures (A4, 500)",
+        "quantity": 6,
+        "unitPrice": 268.47,
+        "amount": 1610.82
+      },
+      {
+        "description": "Payroll processing fee",
+        "quantity": 19,
+        "unitPrice": 292.88,
+        "amount": 5564.72
+      }
+    ]
+  }
+}

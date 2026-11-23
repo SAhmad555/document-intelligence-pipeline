@@ -1,0 +1,42 @@
+{
+  "template": "ocr-noisy",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "A-10504",
+    "invoiceDate": "2026-05-27",
+    "dueDate": "2026-06-26",
+    "supplierName": "Larkspur IT Solutions Limited",
+    "supplierVatNumber": null,
+    "customerName": "Northwind Engineering Ltd",
+    "currency": "USD",
+    "subtotal": 20181.88,
+    "taxAmount": 4036.38,
+    "total": 24218.26,
+    "lineItems": [
+      {
+        "description": "Office cleaning - monthly",
+        "quantity": 7.5,
+        "unitPrice": 612.94,
+        "amount": 4597.05
+      },
+      {
+        "description": "Payroll processing fee",
+        "quantity": 7.5,
+        "unitPrice": 904.66,
+        "amount": 6784.95
+      },
+      {
+        "description": "Office cleaning - monthly",
+        "quantity": 18,
+        "unitPrice": 472.29,
+        "amount": 8501.22
+      },
+      {
+        "description": "Payroll processing fee",
+        "quantity": 2,
+        "unitPrice": 149.33,
+        "amount": 298.66
+      }
+    ]
+  }
+}

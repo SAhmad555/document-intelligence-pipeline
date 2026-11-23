@@ -1,0 +1,30 @@
+{
+  "template": "email",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "A-10245",
+    "invoiceDate": "2026-01-19",
+    "dueDate": "2026-02-18",
+    "supplierName": "Northwind Cleaning Services Ltd",
+    "supplierVatNumber": "GB878568390",
+    "customerName": "Silverline Consulting LLP",
+    "currency": "GBP",
+    "subtotal": 6291.93,
+    "taxAmount": 1258.39,
+    "total": 7550.32,
+    "lineItems": [
+      {
+        "description": "Equipment hire",
+        "quantity": 7,
+        "unitPrice": 477.09,
+        "amount": 3339.63
+      },
+      {
+        "description": "On-site support hours",
+        "quantity": 7.5,
+        "unitPrice": 393.64,
+        "amount": 2952.30
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "template": "email",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "INV-2026-0047",
+    "invoiceDate": "2026-03-24",
+    "dueDate": "2026-04-23",
+    "supplierName": "Northwind Engineering LLP",
+    "supplierVatNumber": null,
+    "customerName": "Silverline Consulting Ltd",
+    "currency": "USD",
+    "subtotal": 19237.21,
+    "taxAmount": 3847.44,
+    "total": 23084.65,
+    "lineItems": [
+      {
+        "description": "Office cleaning - monthly",
+        "quantity": 7,
+        "unitPrice": 411.30,
+        "amount": 2879.10
+      },
+      {
+        "description": "On-site support hours",
+        "quantity": 7.5,
+        "unitPrice": 698.54,
+        "amount": 5239.05
+      },
+      {
+        "description": "Printed brochures (A4, 500)",
+        "quantity": 10,
+        "unitPrice": 609.78,
+        "amount": 6097.80
+      },
+      {
+        "description": "Catering - staff lunch",
+        "quantity": 12,
+        "unitPrice": 321.62,
+        "amount": 3859.44
+      },
+      {
+        "description": "Consultancy day rate",
+        "quantity": 7.5,
+        "unitPrice": 154.91,
+        "amount": 1161.82
+      }
+    ]
+  }
+}

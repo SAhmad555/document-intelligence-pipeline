@@ -1,0 +1,36 @@
+{
+  "template": "classic",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "7005/B",
+    "invoiceDate": "2026-03-31",
+    "dueDate": "2026-04-30",
+    "supplierName": "Bluebell Catering Limited",
+    "supplierVatNumber": null,
+    "customerName": "Silverline Print Works Ltd",
+    "currency": "USD",
+    "subtotal": 4855.00,
+    "taxAmount": 971.00,
+    "total": 5826.00,
+    "lineItems": [
+      {
+        "description": "Office cleaning - monthly",
+        "quantity": 13,
+        "unitPrice": 188.08,
+        "amount": 2445.04
+      },
+      {
+        "description": "Equipment hire",
+        "quantity": 1,
+        "unitPrice": 222.76,
+        "amount": 222.76
+      },
+      {
+        "description": "Temporary staff hours",
+        "quantity": 16,
+        "unitPrice": 136.70,
+        "amount": 2187.20
+      }
+    ]
+  }
+}

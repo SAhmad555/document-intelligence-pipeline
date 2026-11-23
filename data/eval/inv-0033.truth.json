@@ -1,0 +1,24 @@
+{
+  "template": "classic",
+  "hasArithmeticError": false,
+  "truth": {
+    "invoiceNumber": "A-10231",
+    "invoiceDate": "2026-05-20",
+    "dueDate": "2026-07-04",
+    "supplierName": "Meridian Logistics Ltd",
+    "supplierVatNumber": null,
+    "customerName": "Thistle Cleaning Services Limited",
+    "currency": "EUR",
+    "subtotal": 1270.80,
+    "taxAmount": 0.00,
+    "total": 1270.80,
+    "lineItems": [
+      {
+        "description": "Payroll processing fee",
+        "quantity": 4,
+        "unitPrice": 317.70,
+        "amount": 1270.80
+      }
+    ]
+  }
+}
